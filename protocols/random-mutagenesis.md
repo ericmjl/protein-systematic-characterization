@@ -1,22 +1,17 @@
 # Random Mutagenesis Protocol
 
-**Use Case:** Use this protocol to generate random mutants off a starting template.
-
-**Inputs:**
-1. Template DNA
-1. Primers for amplification
-1. Agilent GeneMorph II random mutagenesis kit
-
-**Outputs:**
-1. PCR product containing mutants in amplified region.
+**Use Case:** Use this protocol to generate random mutants off a starting template. Follows the Agilent GeneMorph II protocol, but rewritten for ease at the bench.
 
 ## Required Materials
 
 1. Forward and reverse primers for amplification.
+1. DNA Template that needs to be mutated.
+1. Agilent GeneMorph II kit.
 
 ## Procedure
 
-1.
+1. Use the associated protocol calculator (in the directory `src/apps/calculators/mutagenesis.py`) to determine input DNA volumes required.
+1. Set up the PCR as described in the protocol calculator.
 
 ## Checking Results
 
