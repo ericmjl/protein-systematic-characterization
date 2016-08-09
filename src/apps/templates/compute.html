@@ -1,0 +1,94 @@
+{% extends "master.html" %}
+{% set title_txt = 'Mutagenesis Calculator' %}
+
+{% block title %}{{ title_txt }}{% endblock %}
+{% block page_title %}{{ title_txt }}{% endblock %}
+
+{% block content %}
+
+{% set total_volume = 50 %}
+
+
+<h3>Computed Volumes</h3>
+
+<ul>
+  <li>Input Mass: {{ input_mass }} ng</li>
+  <li>Input Volume: {{ input_volume }} µL</li>
+  <li>Num. Cycles: {{ num_cycles }}</li>
+</ul>
+
+<h3>Reaction Mix</h3>
+<table class="table table-hover">
+  <tr>
+    <th>Item</th>
+    <th>Volume</th>
+  </tr>
+  <tr>
+    <td>10× Mutazyme II reaction buffer</td>
+    <td>5.0 µL</td>
+  </tr>
+  <tr>
+    <td>40 mM dNTP mix (200 μM each final)</td>
+    <td>1.0 µL</td>
+  </tr>
+  <tr>
+    <td>FW Primer (10µM)</td>
+    <td>1.0 µL</td>
+  </tr>
+  <tr>
+    <td>RE Primer (10µM)</td>
+    <td>1.0 µL</td>
+  </tr>
+  <tr>
+    <td>Mutazyme II DNA polymerase</td>
+    <td>1.0 µL</td>
+  </tr>
+  <tr>
+    <td>Template DNA</td>
+    <td class="success">{{ input_volume }} µL</td>
+  </tr>
+  <tr>
+    <td>Water</td>
+    <td class="success">{{ total_volume - input_volume - 9 }} µL</td>
+  </tr>
+</table>
+
+<h3>PCR Protocol</h3>
+<table class="table table-hover">
+  <tr>
+    <th>Segment</th>
+    <th>Num. Cycles</th>
+    <th>Temperature (ºC)</th>
+    <th>Duration (min)</th>
+  </tr>
+  <tr>
+    <td>Denature</td>
+    <td>1</td>
+    <td>95</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Extend</td>
+    <td rowspan="4" class="success">{{ num_cycles }}</td>
+      <tr>
+        <td>95</td>
+        <td>0.5</td>
+      </tr>
+      <tr>
+        <td>68</td>
+        <td>0.5</td>
+      </tr>
+      <tr>
+        <td>72</td>
+        <td class="success">{{ cycle_time }}</td>
+      </tr>
+  </tr>
+  <tr>
+    <td>Finish</td>
+    <td>1</td>
+    <td>72</td>
+    <td>10</td>
+  </tr>
+</table>
+
+{% endblock %}

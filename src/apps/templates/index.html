@@ -1,0 +1,36 @@
+{% extends "master.html" %}
+{% set title_txt = 'Mutagenesis Calculator' %}
+
+{% block title %}{{ title_txt }}{% endblock %}
+{% block page_title %}{{ title_txt }}{% endblock %}
+
+{% block content %}
+<div class="form-group">
+  <form method="POST" name="input-variables">
+    <div name="target_len" class="form-group">
+      <label for="plasmid_len">Target Length (bp)</label>
+      <input class="form-control" name="target_len" placeholder="e.g. 2000"></input>
+    </div>
+
+    <div name="plasmid_len" class="form-group">
+      <label for="plasmid_len">Plasmid Length (bp)</label>
+      <input class="form-control" name="plasmid_len" placeholder="e.g. 7500"></input>
+    </div>
+
+    <div name="input_conc" class="form-group">
+      <label for="input_conc">Input DNA Concentration (ng/µl)</label>
+      <input class="form-control" name="input_conc" placeholder="e.g. 250"></input>
+    </div>
+
+    <div name="mut_freq" class="form-group">
+      <label for="mut_freq">Desired Mutational Frequency</label>
+      <select name="mut_freq" class="form-control">
+        <option value="low">Low</option>
+        <option value="med">Medium</option>
+        <option value="high">High</option>
+      </select>
+    </div>
+    <button class="btn btn-success" name="compute" type="submit" formaction="/compute">Compute!</button>
+  </form>
+</div>
+{% endblock %}
