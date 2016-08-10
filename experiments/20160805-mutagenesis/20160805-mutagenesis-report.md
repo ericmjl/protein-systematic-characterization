@@ -56,6 +56,9 @@ Primer mix | 0.5 | 1.1
 Water | 41.5 | 91.3
 **Total:** | **50.0** | **107.8**
 
+Some notes:
+1. Target input volume was computed to be 3.25 µL in order to get 1000 ng of DNA. However, I only added 1 µL because of laziness. Next time round, I will make sure I have a program to compute this report in its entirety.
+
 #### PCR Protocol
 
 Temperature (ºC) | Time (min, sec) | cycles
@@ -69,6 +72,6 @@ Temperature (ºC) | Time (min, sec) | cycles
 
 Some notes:
 
-1. Though I calculated that the mutagenesis protocol only needed 3 cycles, I decided to go for 4 just to increase the chance that we get extra mutants present.
+1. Though I calculated that the mutagenesis protocol only needed 3 cycles, I decided to go for 4 just to increase the chance that we get extra mutants present. 4 cycles represents 2<sup>4</sup> = 16-fold amplification, which puts this reaction on the lower end of medium amplification (according to the GeneMorph II manual).
 
 # Results
