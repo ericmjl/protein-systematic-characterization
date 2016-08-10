@@ -67,4 +67,8 @@ Temperature (ºC) | Time (min, sec) | cycles
 72 | 10, 00 | 1
 4  | hold   | n/a
 
+Some notes:
+
+1. Though I calculated that the mutagenesis protocol only needed 3 cycles, I decided to go for 4 just to increase the chance that we get extra mutants present.
+
 # Results
