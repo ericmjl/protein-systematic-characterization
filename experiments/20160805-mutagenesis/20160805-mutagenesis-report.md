@@ -9,7 +9,7 @@
 
 # Key Protocol Steps
 
-## PCR Preparation and Protocol
+## PCR Preparation and Reaction
 
 ### pCI backbone PCR for Gibson Assembly
 
@@ -37,6 +37,7 @@ Temperature (ºC) | Time (min, sec) | cycles
 72 | 5, 00 | 1
 4  | hold  | n/a
 
+Expect a single band at approx. 4 kb.
 
 ### VicPB2 mutagenesis PCR
 
@@ -74,4 +75,33 @@ Some notes:
 
 1. Though I calculated that the mutagenesis protocol only needed 3 cycles, I decided to go for 4 just to increase the chance that we get extra mutants present. 4 cycles represents 2<sup>4</sup> = 16-fold amplification, which puts this reaction on the lower end of medium amplification (according to the GeneMorph II manual).
 
-# Results
+Expect a single band at approx. 2.4 kb.
+
+## Load Gel
+
+Agarose:
+
+- 60 mL TBE
+- 0.6 g Agarose
+- 6 µL EtBr
+
+Loading gel:
+
+- pCI:
+  - 5 µL PCR rxn
+  - 1 µL RediLoad
+- VicPB2:
+  - 10 µL rxn
+  - 1 µL RediLoad
+
+Gel order:
+
+> 1 kb ladder | pCI | NC | VicPB2 | mutNC | 1 kb
+
+# Results - pass 1
+
+No bands on PCR.
+
+Likely because the entire PB2 is difficult to amplify.
+
+That's okay, I have backup primers for splitting the PCRs into two. Will attempt next week.
