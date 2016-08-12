@@ -96,9 +96,16 @@ Loading gel:
 
 Gel order:
 
-> 1 kb ladder | pCI | NC | VicPB2 | mutNC | 1 kb
+1. 1 kb ladder
+1. pCI
+1. NC
+1. VicPB2
+1. mutNC
+1. 1 kb ladder
 
 # Results - pass 1
+
+![result](./20160810 mutagenesis.jpg)
 
 No bands on PCR.
 
