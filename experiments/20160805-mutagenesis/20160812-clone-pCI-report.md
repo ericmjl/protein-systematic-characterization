@@ -25,7 +25,7 @@ Tube order (left to right):
 ## PCR setup
 
 Reagent | 1 rxn (µL) | MM x4.4
---|--|--
+-----|------|-------
 Phusion GC | 25 | 110
 Template | 1 | N/A
 Fw primer | 2.5 | N/A
