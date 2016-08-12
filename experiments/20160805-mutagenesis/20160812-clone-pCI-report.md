@@ -43,3 +43,17 @@ Temperature (ºC) | Time (min, sec) | cycles
 72 | 1, 30 | cycles
 72 | 5, 00 | 1
 4  | hold  | n/a
+
+## Gel
+
+1% (w/v) agarose gel:
+- 50 mL 1X TBE
+- 0.5 g LE Agarose
+- 5 µL EtBr
+
+150 V, 30 min.
+
+# Results
+![results](./20160812 pCI amplify.jpg)
+
+Both parts come out with the correct band sizes, but they are not the only bands present. I will need to gel purify the larger PCR reaction.
