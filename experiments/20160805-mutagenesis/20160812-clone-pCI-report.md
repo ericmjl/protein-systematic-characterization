@@ -1,8 +1,8 @@
-# Goals
+## Goals
 
 1. [ ] Amplify just pCI in fragments, see if this reaction works or not.
 
-# Experiment setup
+## Experiment setup
 
 - Part 1:
   - Fw primer: EM-15
@@ -53,7 +53,27 @@ Temperature (ºC) | Time (min, sec) | cycles
 
 150 V, 30 min.
 
-# Results
+## Results
 ![results](./20160812 pCI amplify.jpg)
 
 Both parts come out with the correct band sizes, but they are not the only bands present. I will need to gel purify the larger PCR reaction.
+
+## Gel Purification
+
+I am following the Qiagen gel purification protocol. It requires measuring the weight of gel purified product. Here they are:
+
+Sample | Tube Weight (g) | Tube + Gel Weight (g) | Gel Weight (g) | Buffer QG Volume (µL)
+-----|-----|-----|-----|------
+Part 1 | 0.939 | 1.040 | 0.101 | 303
+Part 2 | 1.035 | 1.174 | 0.139 | 417
+
+After purification, I quantified the DNA available, while changing the sample names to "pCI-PB2-partX".
+
+Part | Concentration (ng/µL)
+-----|--------
+pCI-PB2-part1 | 15.7
+pCI-PB2-part2 | 37.4
+
+Ouch. There's very little DNA present. It must be the 50 µL elution.
+
+That's okay, the DNA are present, meaning that I can still use it for downstream cloning.
