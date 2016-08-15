@@ -2,7 +2,7 @@
 
 - Generate mutant PB2 PCR products using Agilent GeneMorph II kit.
 
-## Key Protocol Steps:
+## Key Protocol Steps
 
 ### PCR
 
@@ -62,3 +62,21 @@ Notes for future reference:
 - 100 mL 1X TBE
 - 1g LE Agarose
 - 10 µL EtBr
+
+Loading dye: 2 µL RediLoad + 10 µL PCR product (yes, it's 2x the concentration, but it's okay, not crucial).
+
+Order of reactions (left to right):
+1. 1 kb ladder
+1. P1 (part 1)
+1. P2 (part 2)
+1. W (water-only control)
+1. T (template-only control)
+1. 1 kb ladder
+
+![gel](./20160815 PB2 mutation.jpg)
+
+Notes:
+- This PCR reaction has most certainly failed.
+- Gel has a single band high up at ~8 kb. This is bigger than the size of the plasmid. Something is being amplified as a concatenation, I think.
+- It is unclear to me why, given two different primer pairs, the PCR product should come out the same. Let me first quickly check that the primer sequences are different... And yes, they are.
+-
