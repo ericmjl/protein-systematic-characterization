@@ -55,3 +55,10 @@ Notes for future reference:
 
 - The last time round I did 4 cycles of amplification. Something told me that this was off, but I couldn't pin down why. This time round, I checked the protocol manual, and it said 30X amplification, even for low target amount of mutagenesis.
 - Agilent's enzyme works at 1 min/kb.
+
+**Gel**
+
+1% (w/v):
+- 100 mL 1X TBE
+- 1g LE Agarose
+- 10 µL EtBr
