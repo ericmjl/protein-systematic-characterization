@@ -64,3 +64,16 @@ Temperature (ºC)  |  Time (min, sec)  | Cycles
 Note: MyTaq Red uses 30s/kb. The longest PCR product is 1.6 kb, so we go for 1 min.
 
 Let the PCR reaction go overnight.
+
+**Gel:**
+
+Date: 2016-08-16
+
+30 min, 150V, 1% (w/v), EtBr.
+
+Sample Order:
+- 1 kb ladder
+- P1 (part 1)
+- P2 (part 2)
+- W (water-only control)
+- T (template-only control)
