@@ -8,7 +8,7 @@ How will we know? If we run the PCR reaction with regular MyTaq Red, then if the
 
 Note to self: in the future, must test the primers before going running them with expensive mutagenesis primers!
 
-## Key Protocol Steps
+## Key Protocol Steps and Results
 
 ### PCR
 
@@ -72,8 +72,16 @@ Date: 2016-08-16
 30 min, 150V, 1% (w/v), EtBr.
 
 Sample Order:
-- 1 kb ladder
+- 1 kb ladder 
 - P1 (part 1)
 - P2 (part 2)
 - W (water-only control)
 - T (template-only control)
+
+![gel](./20160816-pb2-primer-test.jpg)
+
+As we can see from the gel, the template-only control exhibits the same banding pattern as the two samples P1 and P2. Luckily, the water-only control does not show any banding pattern.
+
+This indicates to me that the banding pattern in the two samples comes from the template, and that there is a failed amplicon in P2 (which is supposed to be 806 bp).
+
+I will re-order a few new primer sets to get the mutagenesis done.
