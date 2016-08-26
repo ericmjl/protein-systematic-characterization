@@ -80,3 +80,17 @@ Temperature (ºC)  |  Time (min, sec)  | Cycles
 4                 | hold              | 1
 
 ## Gel
+
+Used pre-cast 1% gel, made as per previous runs.
+
+![gel](./20160826-60-mer-test.jpg)
+
+Order of samples is exactly the same as the PCR setup.
+
+Analysis of gel:
+- PB2 Part 1: The band size (between 1-1.5 kb) is small, expected 1600 bp, but I have a hunch it's still correct.
+- PB2 Part 2: Correct band size (between 0.5 and 1 kb, expected 820 bp). Need to optimize reaction for yield.
+- pCI Part 1: Correct band size (between 2-3 kb; expected 2707 bp).
+- pCI Part 2: Correct band size (between 1 and 1.5 kb)
+- Template-only: no comment. Consistent with previous runs.
+- PC1 & PC2: The band sizes look swapped. I must have done something wrong with the order of samples. I am confident that I added the primers correctly, though. 
