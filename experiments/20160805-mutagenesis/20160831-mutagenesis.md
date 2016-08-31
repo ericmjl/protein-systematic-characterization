@@ -1,7 +1,7 @@
 ## Goals
 
 - Generate mutant PB2 PCR products as well as generate pcI backbone PCR products
-	
+
 ## Setup
 
 ### Reactions:
@@ -39,12 +39,12 @@
 | F Primer   | 1     | N/A               |
 | R Primer   | 1     | N/A               |
 
-| Reaction      | Primers      |
-|---------------|--------------|
-| pCI Part 1    | EM-32, EM-31 |
-| pCI Part 2    | EM-26, EM-25 |
-| Water-only    | N/A          |
-| Template-only | N/A          |
+| Reaction      | Primers      | PCR Tube Label |
+|---------------|--------------|----------------|
+| pCI Part 1    | EM-32, EM-31 | P1             |
+| pCI Part 2    | EM-26, EM-25 | P2             |
+| Water-only    | N/A          | PW             |
+| Template-only | N/A          | PT             |
 
 - Note on prep: Phusion is much more resilient than Agilent and does not need to be put on ice
 
