@@ -59,3 +59,22 @@ I have to make a total of 8 master mixes, one for each row in the sample layout.
 Note to self: Fw/Re numbers refer to primers in my catalogue, EM-25 to EM-30.
 
 Note to self: All of the controls - I don't expect a band to be present.
+
+## Gel
+
+I made a 100 mL 1% gel (w/v) with 10 µL EtBr added. Three gels are needed in total.
+
+- Gel 1 contains rows A-C. Samples are loaded from left to right.
+- Gel 2 contains rows D-H. Samples are loaded from left to right.
+
+
+Gel 1:
+
+- Row 1:
+  - Lanes 1-6: PB2 Part 1, 62ºC-72ºC
+  - Lanes 7-10: PB2 Part 2, 62ºC-68ºC
+- Row 2:
+  - Lanes 1-2: PB2 Part 2, 70ºC-72ºC
+  - Lanes 3-8: pCI Part 1, 62ºC-72ºC
+
+![gel1](./20160831-gradient-pcr-gel-1.jpg)
