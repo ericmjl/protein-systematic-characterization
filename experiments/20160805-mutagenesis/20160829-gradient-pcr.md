@@ -25,14 +25,14 @@ In this case, I'm using a 96-well plate.
 
 | Col: Temp/ºC Row: Sample ID | 62 | N/A | 64 | N/A | 66 | N/A | 68 | N/A | 70 | N/A | 72 | N/A |
 |:---------------------------:|:--:|:---:|:--:|:---:|:--:|:---:|:--:|:---:|----|-----|----|-----|
-|        1: PB2 Part 1        |    |     |    |     |    |     |    |     |    |     |    |     |
-|        2: PB2 Part 2        |    |     |    |     |    |     |    |     |    |     |    |     |
-|        3: pCI Part 1        |    |     |    |     |    |     |    |     |    |     |    |     |
-|        4: pCI Part 2        |    |     |    |     |    |     |    |     |    |     |    |     |
-|     5: MyTaq water-only     |    |     |    |     |    |     |    |     |    |     |    |     |
-|    6: MyTaq template-only   |    |     |    |     |    |     |    |     |    |     |    |     |
-|    7: Phusion water-only    |    |     |    |     |    |     |    |     |    |     |    |     |
-|   8: Phusion template-only  |    |     |    |     |    |     |    |     |    |     |    |     |
+|        A: PB2 Part 1        |    |     |    |     |    |     |    |     |    |     |    |     |
+|        B: PB2 Part 2        |    |     |    |     |    |     |    |     |    |     |    |     |
+|        C: pCI Part 1        |    |     |    |     |    |     |    |     |    |     |    |     |
+|        D: pCI Part 2        |    |     |    |     |    |     |    |     |    |     |    |     |
+|     E: MyTaq water-only     |    |     |    |     |    |     |    |     |    |     |    |     |
+|    F: MyTaq template-only   |    |     |    |     |    |     |    |     |    |     |    |     |
+|    G: Phusion water-only    |    |     |    |     |    |     |    |     |    |     |    |     |
+|   H: Phusion template-only  |    |     |    |     |    |     |    |     |    |     |    |     |
 
 ## PCR Setup
 
