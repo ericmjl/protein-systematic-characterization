@@ -92,9 +92,9 @@ Gel 2:
 
 Interpretation of both gels: let's take a look at whether there's an optimal temperature for each PCR reaction.
 
-PB2 Part 1: 68ºC
-PB2 Part 2: <60ºC. For future use, punt it and just use 56ºC.
-pCI Part 1: All work, use 68ºC.
-pCI Part 2: All work, use 68ºC
-Water controls: all empty
-Template-only controls: only large bands
+- PB2 Part 1: 68ºC
+- PB2 Part 2: <60ºC. For future use, punt it and just use 56ºC.
+- pCI Part 1: All work, use 68ºC.
+- pCI Part 2: All work, use 68ºC
+- Water controls: all empty
+- Template-only controls: only large bands
