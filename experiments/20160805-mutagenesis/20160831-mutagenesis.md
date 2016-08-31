@@ -22,12 +22,12 @@
 | Template   | 1     | N/A               |
 | Total      | 51.5  | 213.4             |
 
-| Reaction      | Primers      |
-|---------------|--------------|
-| PB2 Part 1    | EM-30, EM-29 |
-| PB2 Part 2    | EM-28, EM-27 |
-| Water-only    | N/A          |
-| Template-only | N/A          |
+| Reaction      | Primers      | PCR Tube Label |
+|---------------|--------------|----------------|
+| PB2 Part 1    | EM-30, EM-29 | A1             |
+| PB2 Part 2    | EM-28, EM-27 | A2             |
+| Water-only    | N/A          | AW             |
+| Template-only | N/A          | AT             |
 
 2. **pCI**
 
