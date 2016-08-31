@@ -83,5 +83,5 @@ Gel 1:
 Interpretation of gel: let's take a look at whether there's an optimal temperature for each PCR reaction.
 
 PB2 Part 1: 68ºC
-PB2 Part 2: <62ºC. For future use, hedge and just use 58ºC.
+PB2 Part 2: <62ºC. For future use, punt it and just use 58ºC.
 pCI Part 1: All work, use 68ºC.
