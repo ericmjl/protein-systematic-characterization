@@ -78,3 +78,10 @@ Gel 1:
   - Lanes 3-8: pCI Part 1, 62ºC-72ºC
 
 ![gel1](./20160831-gradient-pcr-gel-1.jpg)
+
+
+Interpretation of gel: let's take a look at whether there's an optimal temperature for each PCR reaction.
+
+PB2 Part 1: 68ºC
+PB2 Part 2: <62ºC. For future use, hedge and just use 58ºC.
+pCI Part 1: All work, use 68ºC.
