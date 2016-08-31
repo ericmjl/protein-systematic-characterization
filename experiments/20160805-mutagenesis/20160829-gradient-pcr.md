@@ -60,6 +60,17 @@ Note to self: Fw/Re numbers refer to primers in my catalogue, EM-25 to EM-30.
 
 Note to self: All of the controls - I don't expect a band to be present.
 
+## PCR Program
+
+Temperature (ºC)  |  Time (min, sec)  | Cycles  
+------------------|-------------------|--------
+95                | 1, 00             | 1
+95                | 0, 15             | repeat
+60-72             | 0, 15             | 40
+72                | 2, 00             | cycles
+72                | 10, 00            | 1
+4                 | hold              | 1
+
 ## Gel
 
 I made a 100 mL 1% gel (w/v) with 10 µL EtBr added. Three gels are needed in total.
