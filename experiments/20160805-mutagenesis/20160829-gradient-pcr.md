@@ -32,7 +32,7 @@ In this case, I'm using a 96-well plate.
 |     E: MyTaq water-only     |    |     |    |     |    |     |    |     |    |     |    |     |
 |    F: MyTaq template-only   |    |     |    |     |    |     |    |     |    |     |    |     |
 |    G: Phusion water-only    |    |     |    |     |    |     |    |     |    |     |    |     |
-|   H: Phusion template-only  |    |     |    |     |    |     |    |     |    |     |    |     |
+|   H: Phusion template-only  |    |     |    |     |    |     |    |     |    |     |    |     | |
 
 ## PCR Setup
 
