@@ -6,10 +6,10 @@
 
 ### Reactions:
 
-1. PB2 w/ Agilent
-2. pCI w/ Phusion
+1. PB2 w/ Agilent (4 rxns)
+2. pCI w/ Phusion (4 rxns)
 
-1. PB2
+1. **PB2**
 
 | PCR Mix    | 1 rxn | Master Mix (4.4x) |
 |------------|-------|-------------------|
@@ -29,7 +29,7 @@
 | Water-only    | N/A          |
 | Template-only | N/A          |
 
-2. pCI
+2. **pCI**
 
 | PCR Mix    | 1 rxn | Master Mix (4.4x) |
 |------------|-------|-------------------|
@@ -50,20 +50,24 @@
 
 ### Programs:
 
-Agilent
+**Agilent**
 
 | Temperature (C)      | Time           | # cycles |
 |----------------------|----------------|----------|
 | 95                   | 2 min          | 1        |
-| 95 P1: 68, P2: 56 72 | 30 s 30s 2 min | 30       |
+| 95  | 30 s | Repeat       |
+| P1: 68, P2: 56| 30s | 30       |
+| 72 | 2 min | times       |
 | 72                   | 10 min         | 1        |
 | 4                    | hold           |          |
 
-Phusion 
+**Phusion**
 
 | Temperature (C) | Time            | # cycles |
 |-----------------|-----------------|----------|
 | 95              | 30 s            | 1        |
-| 95 68 72        | 15 s 15 s 2 min | 30       |
+| 95         | 15 s  | Repeat       |
+| 68        | 15 s | 30       |
+| 72        | 2 min | times       |
 | 72              | 7 min           | 1        |
 | 4               | hold            |          |
