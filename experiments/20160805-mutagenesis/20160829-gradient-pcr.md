@@ -71,22 +71,22 @@ I made a 100 mL 1% gel (w/v) with 10 µL EtBr added. Three gels are needed in to
 Gel 1:
 
 - Row 1:
-  - Lanes 1-6: PB2 Part 1, 62ºC-72ºC
-  - Lanes 7-10: PB2 Part 2, 62ºC-68ºC
+  - Lanes 1-6: PB2 Part 1, 60ºC-72ºC
+  - Lanes 7-10: PB2 Part 2, 60ºC-66ºC
 - Row 2:
-  - Lanes 1-2: PB2 Part 2, 70ºC-72ºC
-  - Lanes 3-8: pCI Part 1, 62ºC-72ºC
+  - Lanes 1-2: PB2 Part 2, 68ºC-72ºC
+  - Lanes 3-8: pCI Part 1, 60ºC-72ºC
 
 ![gel1](./20160831-gradient-pcr-gel-1.jpg)
 
 Gel 2:
 - Row 1:
-  - Lanes 1-6: pCI Part 2, 62ºC-72ºC
-  - Lanes 7-12: MyTaq water-control, 62ºC-72ºC
-  - Lanes 13-18: MyTaq template-only, 62ºC-72ºC
+  - Lanes 1-6: pCI Part 2, 60ºC-72ºC
+  - Lanes 7-12: MyTaq water-control, 60ºC-72ºC
+  - Lanes 13-18: MyTaq template-only, 60ºC-72ºC
 - Row 2:
-  - Lanes 1-6: Phusion water-control, 62ºC-72ºC
-  - Lanes 7-12: Phusion template-only, 62ºC-72ºC
+  - Lanes 1-6: Phusion water-control, 60ºC-72ºC
+  - Lanes 7-12: Phusion template-only, 60ºC-72ºC
 
 Interpretation of both gels: let's take a look at whether there's an optimal temperature for each PCR reaction.
 
