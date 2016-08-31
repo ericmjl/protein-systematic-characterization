@@ -88,8 +88,13 @@ Gel 2:
   - Lanes 1-6: Phusion water-control, 60ºC-72ºC
   - Lanes 7-12: Phusion template-only, 60ºC-72ºC
 
+![gel2](./20160831-gradient-pcr-gel-2.jpg)
+
 Interpretation of both gels: let's take a look at whether there's an optimal temperature for each PCR reaction.
 
 PB2 Part 1: 68ºC
 PB2 Part 2: <60ºC. For future use, punt it and just use 56ºC.
 pCI Part 1: All work, use 68ºC.
+pCI Part 2: All work, use 68ºC
+Water controls: all empty
+Template-only controls: only large bands
