@@ -78,3 +78,9 @@
 | 72              | 2 min           | times    |
 | 72              | 7 min           | 1        |
 | 4               | hold            |          |
+
+### Gel Electrophoresis
+
+| Ladder | P1 | P2 | PW | PT | A1 | A2 | Aw | AT | Ladder |
+|--------|----|----|----|----|----|----|----|----|--------|
+
