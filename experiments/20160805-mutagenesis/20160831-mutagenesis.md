@@ -87,7 +87,7 @@ Gel Parameters
 
 Gel Order
 
-| Ladder | P1 | P2 | PW | PT | A1 | A2 | Aw | AT | Ladder |
+| Ladder | P1 | P2 | PW | PT | A1 | A2 | AW | AT | Ladder |
 |--------|----|----|----|----|----|----|----|----|--------|
 
 ![mutagenesis_gel](./20160901-mutagenesis-pcr-gel.jpg)
