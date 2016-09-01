@@ -86,5 +86,21 @@ Gel Parameters
 - 150 volts, 20 min
 
 Gel Order
-| Ladder | P1 | P2 | PW | PT | A1 | A2 | Aw | AT | Ladder |
+
+| Ladder | P1 | P2 | PW | PT | A1 | A2 | AW | AT | Ladder |
 |--------|----|----|----|----|----|----|----|----|--------|
+
+![mutagenesis_gel](./20160901-mutagenesis-pcr-gel.jpg)
+
+## Analysis
+
+Only PCR with P1 (band at 2.7kb) appears successful.
+
+**Expected Sizes**
+
+| Fragment        | expected size |
+|---------------|---------------|
+| A1: PB2 Part 1 | 1600          |
+| A2: PB2 Part 2 | 820           |
+| P1: pCI Part 1  | 2707          |
+| P2: pCI Part 2  | 1374          |
