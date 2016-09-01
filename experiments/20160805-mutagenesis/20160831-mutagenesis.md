@@ -94,7 +94,7 @@ Gel Order
 
 ## Analysis
 
-Only PCR with P1 (band at 2.7kb) appears successful.
+Only PCR with P1, i.e. pCI Part 1 (band at 2.7kb), appears successful.
 
 **Expected Sizes**
 
