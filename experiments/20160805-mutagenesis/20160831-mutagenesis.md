@@ -9,7 +9,7 @@
 1. PB2 w/ Agilent (4 rxns)
 2. pCI w/ Phusion (4 rxns)
 
-1. **PB2**
+**PB2 PCR reactions**
 
 | PCR Mix    | 1 rxn | Master Mix (4.4x) |
 |------------|-------|-------------------|
@@ -29,7 +29,7 @@
 | Water-only    | N/A          | AW             |
 | Template-only | N/A          | AT             |
 
-2. **pCI**
+**pCI PCR reactions**
 
 | PCR Mix    | 1 rxn | Master Mix (4.4x) |
 |------------|-------|-------------------|
@@ -48,7 +48,7 @@
 
 - Note on prep: Phusion is much more resilient than Agilent and does not need to be put on ice
 
-### Programs:
+### PCR Programs
 
 **Agilent**
 
