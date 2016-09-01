@@ -78,3 +78,13 @@
 | 72              | 2 min           | times    |
 | 72              | 7 min           | 1        |
 | 4               | hold            |          |
+
+### Gel Electrophoresis
+
+Gel Parameters
+- 1% (w/v)
+- 150 volts, 20 min
+
+Gel Order
+| Ladder | P1 | P2 | PW | PT | A1 | A2 | Aw | AT | Ladder |
+|--------|----|----|----|----|----|----|----|----|--------|
