@@ -100,7 +100,7 @@ Only PCR with P1 (band at 2.7kb) appears successful.
 
 | Fragment        | expected size |
 |---------------|---------------|
-| A1  | 1600          |
-| A2 | 820           |
-| P1  | 2707          |
-| P2  | 1374          |
+| A1: PB2 Part 1 | 1600          |
+| A2: PB2 Part 2 | 820           |
+| P1: pCI Part 1  | 2707          |
+| P2: pCI Part 2  | 1374          |
