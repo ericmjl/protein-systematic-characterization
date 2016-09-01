@@ -9,9 +9,9 @@
 1. PB2 w/ Agilent (4 rxns)
 2. pCI w/ Phusion (4 rxns)
 
-**PB2 PCR reactions**
+**PB2**
 
-| PCR Mix    | 1 rxn | Master Mix (4.4x) |
+| PCR Mix    | 1 rxn | Master Mix (4.4x*) |
 |------------|-------|-------------------|
 | Water      | 41.5  | 182.6             |
 | 10x buffer | 5     | 22                |
@@ -29,12 +29,14 @@
 | Water-only    | N/A          | AW             |
 | Template-only | N/A          | AT             |
 
-**pCI PCR reactions**
+- 10% chance of error per reaction
+
+**pCI**
 
 | PCR Mix    | 1 rxn | Master Mix (4.4x) |
 |------------|-------|-------------------|
 | Water      | 22    | 96.8              |
-| 2x Phusion | 25    | 110               |
+| 2x Phusion** | 25    | 110               |
 | Template   | 1     | N/A               |
 | F Primer   | 1     | N/A               |
 | R Primer   | 1     | N/A               |
@@ -46,7 +48,12 @@
 | Water-only    | N/A          | PW             |
 | Template-only | N/A          | PT             |
 
-- Note on prep: Phusion is much more resilient than Agilent and does not need to be put on ice
+**Contains buffer, dNTPs, and DNA polymerase
+
+**Note on prep**
+- Phusion is much more resilient than Agilent and does not need to be put on ice
+- Avoid touching inside of tube caps
+
 
 ### PCR Programs
 
