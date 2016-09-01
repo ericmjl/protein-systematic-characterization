@@ -104,3 +104,16 @@ Only PCR with P1, i.e. pCI Part 1 (band at 2.7kb), appears successful.
 | A2: PB2 Part 2  | 820           |
 | P1: pCI Part 1  | 2707          |
 | P2: pCI Part 2  | 1374          |
+
+## Post-Processing
+
+Because pCI Part 1 was produced successfully, we cut out the band from the gel, and used the Qiaquick Gel Extraction kit to extract the DNA from there.
+
+Notes/deviations from protocol:
+
+- Mass of gel: 1.177 g - 0.998 g = 0.189 g
+- Buffer QG vol.: 3 x 189 = 567 µL
+- Isopropanol vol.: 189 µL
+- Final elution vol: 10 µL
+
+Sample stored in cloning kit, -20ºC.
