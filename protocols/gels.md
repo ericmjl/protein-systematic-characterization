@@ -32,3 +32,11 @@ Notes:
 | 1   | 50          | 0.5            | 5    |
 | 1.5 | 50          | 0.75           | 5    |
 | 2   | 50          | 1.0            | 5    |
+
+## Steps:
+
+1. Mix TBE and LE Agarose together in conical flask.
+1. Zap in microwave until all agarose has dissolved.
+1. Add in EtBr at appropriate volume and pour into gel caster
+1. Add combs.
+1. Store gels in 4ºC fridge.
