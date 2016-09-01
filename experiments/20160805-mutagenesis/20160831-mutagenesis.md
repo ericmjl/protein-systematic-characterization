@@ -63,7 +63,7 @@
 |----------------------|----------------|----------|
 | 95                   | 2 min          | 1        |
 | 95                   | 30 s           | Repeat   |
-| P1: 68, P2: 56       | 30s            | 30       |
+| A1: 68, A2: 56       | 30s            | 30       |
 | 72                   | 2 min          | times    |
 | 72                   | 10 min         | 1        |
 | 4                    | hold           |          |
@@ -94,7 +94,9 @@ Gel Order
 
 ## Analysis
 
-Only PCR with P1 (band at 2.7kb) appears successful.
+- Only PCR with P1 (band at 2.7kb) appears successful.
+- Since pCI part 2 worked previously under same conditions, reaction will be repeated.
+- PB2 part 2 is present but faint; PB2 part 1 failed. Will lower annealing temperature of both by 5C to 50C and 63C respectively.
 
 **Expected Sizes**
 
