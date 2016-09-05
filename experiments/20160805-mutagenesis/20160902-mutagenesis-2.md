@@ -54,7 +54,6 @@
 - Phusion is much more resilient than Agilent and does not need to be put on ice
 - Avoid touching inside of tube caps
 
-
 ### PCR Programs
 
 **Agilent**
@@ -107,3 +106,18 @@ Gel Order
 - **P2**: The band is between the 1.0 and 1.5 kb reference bands as expected.
 
 Since pCI part 1 was successfully produced despite having the largest size at 2.7kb, perhaps we could try PCR with the whole PB2 fragment instead of splitting it?
+
+## Gel Extraction
+
+All three bands were cut and the DNA within extracted.
+
+Notes/deviations from protocol:
+
+Masses of gels:
+- A1: 1.0578 - 1.004 = .0538
+- A2: 1.0322 - .984 = .0482
+- P2: 1.0833 - .988 = .0953
+
+- Final elution vol: 10 µL
+
+Sample stored in cloning kit, -20ºC.
