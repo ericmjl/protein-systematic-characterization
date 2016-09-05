@@ -36,3 +36,16 @@
 | 72                   | 2 min          | times    |
 | 72                   | 10 min         | 1        |
 | 4                    | hold           |          |
+
+### Gel Electrophoresis
+
+Gel Order:
+
+| Ladder | Hi | Lo | W | T | Ladder |
+|--------|----|----|----|-----|--------|
+
+![gel](./20160905-pb2_full.jpg)
+
+## Analysis
+
+Mutant PB2 reactions yielded no difference in products from template at all.
