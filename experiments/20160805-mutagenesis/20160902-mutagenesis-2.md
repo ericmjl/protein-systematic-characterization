@@ -89,7 +89,7 @@ Gel Order
 | Ladder | P2 | PW | PT | A1 | A2 | AW | AT | Ladder |
 |--------|----|----|----|----|----|----|----|--------|
 
-![gel](./20160903-mutagenesis-2.jpg)
+![gel](./20160903-mutagenesis-2.JPG)
 
 ## Analysis
 
@@ -121,3 +121,12 @@ Masses of gels:
 - Final elution vol: 10 µL
 
 Sample stored in cloning kit, -20ºC.
+
+**Nanodrop Analysis:**
+
+| Fragment        | Concentration (ng/ul)| 260/280|
+|-----------------|---------------|------------|
+| A1: PB2 Part 1  | 10.7       | 8.92    |
+| A2: PB2 Part 2  |2.1           | -0.6     |
+| P1: pCI Part 1  | 229         | 1.53       |
+| P2: pCI Part 2  | 83.4          | 1.96       |

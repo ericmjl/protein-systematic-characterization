@@ -44,7 +44,7 @@ Gel Order:
 | Ladder | Hi | Lo | W | T | Ladder |
 |--------|----|----|----|-----|--------|
 
-![gel](./20160905-pb2_full.jpg)
+![gel](./20160905-pb2_full.JPG)
 
 ## Analysis
 
