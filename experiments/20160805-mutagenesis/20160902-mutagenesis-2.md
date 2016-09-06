@@ -1,7 +1,7 @@
 ## Goals
 
 - Generate mutant PB2 PCR products as well as generate pcI backbone PCR products
-- Resolve problems from previous mutagenesis - changes are bolded
+- Resolve problems from [previous mutagenesis](./20160831-mutagenesis.md) - changes are bolded
 
 ## Setup
 
