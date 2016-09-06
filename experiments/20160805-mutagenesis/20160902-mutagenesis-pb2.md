@@ -1,6 +1,6 @@
 ## Goals
 
-- generate mutant PB2 PCR products with full DNA fragment
+- Test viability of PCR with full PB2 primers, with MyTaq Red substituting for Agilent
 
 ## Setup
 
