@@ -12,12 +12,12 @@
 
 ## PCR Setup
 
-| Reaction        | Fw/Re        | Annealing Temp |
-|-----------------|--------------|----------------|
-| PB2 Part 1 (A1) | EM-30, EM-29 | 62ºC           |
-| PB2 Part 2 (A2) | EM-28, EM-27 | 50ºC           |
-| Water-only      | N/A          | 50ºC           |
-| Template-only   | N/A          | 50ºC           |
+| Reaction        | Fw/Re        | Annealing Temp | Band Size |
+|-----------------|--------------|----------------|-----------|
+| PB2 Part 1 (A1) | EM-30, EM-29 | 62ºC           | 1600      |
+| PB2 Part 2 (A2) | EM-28, EM-27 | 50ºC           | 820       |
+| Water-only      | N/A          | 50ºC           | N/A       |
+| Template-only   | N/A          | 50ºC           | N/A       |
 
 ## Reaction Master Mix
 
@@ -46,4 +46,31 @@
 
 ## Gel
 
-1% agarose gel (w/v), 150V, 30 min
+1% agarose gel (w/v), 150V, 30 min.
+
+I first loaded 5µL of the total reaction volume. This was because the gel looked a bit shallow to load the full 50 µL (call this the "analytical gel"). I then prepared another 1% agarose gel with deeper wells, just in case the analytical looked good, do the gel extraction.
+
+Here is the order of the samples, from left to right:
+
+- NEB 1kb ladder
+- Tube A1 (PB2 Part 1)
+- Tube A2 (PB2 Part 2)
+- Tube AW (water-only control)
+- Tube AT (template-only control)
+- NEB 1kb ladder
+
+![gel](./20160907-DMSO-mutagenesis.jpg)
+
+## Interpretation
+
+First off, adding DMSO at 3% is a **very good idea** for fixing non-specificity in amplification. Observe how the gel has virtually no non-specific amplification.
+
+I have a nice bright band for part A2 (PB2 part 2). This can be gel extracted; it is also at the right band size. Will re-run the gel with the remainder of the reaction that wasn't run originally.
+
+I need to re-run the reaction for part A1 (PB2 part 1). Its annealing temperature (I used 62ºC) may be too low right now and the addition of DMSO may have promoted the annealing of the primer to the non-specific location, rather than the desired location. According to the [previous gradient PCR test](./20160831-gradient-pcr.md), with the Taq polymerase, I was able to get specific annealing at 60-72ºC; I think it may be prudent to bring the annealing temperature back up to 68ºC, while keeping 3% DMSO in.
+
+As an alternative, I'm thinking of spiking in Mn<sup>2+</sup> into a MyTaq Red reaction. Skimmed the theory behind this, but not very sure I can guarantee that it'll work out. Keep this thought...
+
+## Gel Extraction
+
+In running gel extraction, changed run time to 45 min. Still used 150V, 1% gel.
