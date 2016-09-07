@@ -81,4 +81,4 @@ I cut the smaller bright band in lane 2 below.
 
 During gel extraction, I forgot to add isopropanol. From first-principles, I expect the yield of DNA to be much lower than what it should be.
 
-Final yield: 46 ng/µL in 10 µL.
+Final yield: 46 ng/µL in 10 µL. A260/280 = 2.06
