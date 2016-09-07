@@ -73,13 +73,21 @@ As an alternative, I'm thinking of spiking in Mn<sup>2+</sup> into a MyTaq Red r
 
 ## Gel Extraction
 
-In running gel extraction, changed run time to 90 min. Still used 150V, 1% gel.
+In running gel for extraction, changed run time to 90 min. Still used 150V, 1% gel. Used Qiagen QiaQuick Gel Extraction kit for extracting the DNA.
 
 I cut the smaller bright band in lane 2 below.
 
 ![gel cut](./20160907-gel-cut.jpg)
 
-During gel extraction, I forgot to add isopropanol. From first-principles, I expect the yield of DNA to be much lower than what it should be.
+- Tube weight before: 0.987 g
+- Tube weight after: 1.381 g
+- Gel mass: 0.394 g
+
+Added 1182 µL of buffer QG.
+
+During gel extraction, I forgot to add isopropanol. From first-principles, I expect the yield of DNA to be much lower than what it should be with adding isopropanol.
+
+Elution done in 10 µL of provided buffer EB.
 
 Final yield: 46 ng/µL in 10 µL. A260/280 = 2.06
 
