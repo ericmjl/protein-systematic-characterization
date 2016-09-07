@@ -43,3 +43,7 @@
 | 72                   | 2 min          | times    |
 | 72                   | 10 min         | 1        |
 | 4                    | hold           | 1        |
+
+## Gel
+
+1% agarose gel (w/v), 150V, 30 min
