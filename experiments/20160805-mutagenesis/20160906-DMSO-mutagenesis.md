@@ -82,3 +82,5 @@ I cut the smaller bright band in lane 2 below.
 During gel extraction, I forgot to add isopropanol. From first-principles, I expect the yield of DNA to be much lower than what it should be.
 
 Final yield: 46 ng/µL in 10 µL. A260/280 = 2.06
+
+This PCR product replaces the one that Vivian extracted, which was only approx. 2 ng/µL DNA concentration. Reference: [GitHub issue 13](https://github.com/ericmjl/protein-systematic-characterization/issues/13).
