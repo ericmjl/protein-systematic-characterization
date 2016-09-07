@@ -53,8 +53,8 @@ I first loaded 5µL of the total reaction volume. This was because the gel looke
 Here is the order of the samples, from left to right:
 
 - NEB 1kb ladder
-- Tube A1 (PB2 Part 1)
-- Tube A2 (PB2 Part 2)
+- Tube A1 (PB2 Part 1) - expected 1600 bp band
+- Tube A2 (PB2 Part 2) - expected 800 bp band
 - Tube AW (water-only control)
 - Tube AT (template-only control)
 - NEB 1kb ladder
