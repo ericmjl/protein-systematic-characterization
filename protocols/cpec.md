@@ -20,7 +20,7 @@ Mix the following together:
 ## PCR Program
 
 Use Phusion or Kapa program.
-- Extension time should be 30 sec/kb, done for the length of the full plasmid. Alternatively for convenience, since most plasmids are going to be less than 10 kb, a standard 5 min extension time should suffice. 
+- Extension time should be 30 sec/kb, done for the length of the full plasmid. Alternatively for convenience, since most plasmids are going to be less than 10 kb, a standard 5 min extension time should suffice.
 - Annealing temperature should be set to 65ºC.
 
 ## Downstream steps
