@@ -40,13 +40,20 @@ def convert_index_to_html(directory):
                  'html',
                  outputfile='{0}/index.html'.format(directory))
 
-@click.command()
-@click.option('--directory')
+# @click.command()
+# @click.option('--directory')
 def build_index(directory):
     # Get the markdown files from a directory
     md_files = get_md_files(directory)
     write_index(directory, md_files)
     convert_index_to_html(directory)
 
+def build_all_indexes():
+    print(os.getcwd())
+    for d in os.listdir(os.getcwd()):
+        if os.path.isdir(d):
+            print(os.path.join(os.getcwd(), d))
+            build_index(os.path.join(os.getcwd(), d))
+
 if __name__ == '__main__':
-    build_index()
+    build_all_indexes()
