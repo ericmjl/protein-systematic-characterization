@@ -24,8 +24,8 @@
 |---------------|--------------|----------------|
 | PB2 @ 68C     | EM-30, EM-27 | Hi             |
 | PB2 @ 62C     | EM-30, EM-27 | Lo             |
-| Water-only    | N/A          | W             |
-| Template-only | N/A          | T             |
+| Water-only    | N/A          | W              |
+| Template-only | N/A          | T              |
 
 ### PCR Programs
 
