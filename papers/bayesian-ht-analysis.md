@@ -66,4 +66,3 @@ key points:
 - `n=some_value` + bayesian can let us identify measurements that have a high degree of uncertainty/variation.
 - decision rule is possible: check that 95% HPDs are non-overlapping. alternatively, have a pre-defined ROPE (Kruschke). emphasize: no free lunch.
 - deciding whether something is significant should still be on the basis of "biological" significance, not "statistical" significance.
-- 
