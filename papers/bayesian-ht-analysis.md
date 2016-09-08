@@ -3,7 +3,7 @@ title: Bayesian Analysis of High Throughput Biological Measurement Data
 authors:
   - name: Eric J. Ma
     affiliation: MIT
-target_journal: nature_methods, pnas, elife, plos_comp_bio, plos_one
+target_journal: nature_methods, pnas, elife, biostatistics, plos_comp_bio, plos_one
 ---
 
 # Abstract
@@ -38,7 +38,10 @@ key points:
 ## Simulation Setup
 
 key points:
-- describe BGM for polymerase assay
+- describe experimental setup:
+  - batch effects are controlled for by having internal controls and standards
+  - need figure
+- describe BGM for a generic "fold change" HT assay.
 
 ## Modelled Error in estimate as function of number of replicates
 
