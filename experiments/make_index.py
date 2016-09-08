@@ -1,5 +1,4 @@
 import os
-import click
 from pypandoc import convert_file
 
 def get_md_files(directory):
@@ -40,8 +39,6 @@ def convert_index_to_html(directory):
                  'html',
                  outputfile='{0}/index.html'.format(directory))
 
-# @click.command()
-# @click.option('--directory')
 def build_index(directory):
     # Get the markdown files from a directory
     md_files = get_md_files(directory)
