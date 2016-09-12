@@ -22,6 +22,7 @@ key points:
 - Bayesian inference is a much more natural alternative, but it has generally been inaccessible to the general life science experimentalist; multiple comparisons are also not an issue (Kruschke). We aim to address this problem through this manuscript, by (1) extending Krushke's two-sample comparison method to fold changes (most common in HT analysis),
 
 potential references:
+
 1. Enhancing reproducibility in cancer drug screening: how do we move forward? http://www.ncbi.nlm.nih.gov/pubmed/25015668
 1. Linear models and empirical bayes methods for assessing differential expression in microarray experiments. http://www.ncbi.nlm.nih.gov/pubmed/16646809
 1. Empirical Bayesian analysis of paired high-throughput sequencing data with a beta-binomial distribution. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3658937/
