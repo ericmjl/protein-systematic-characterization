@@ -11,7 +11,7 @@ target_journal: nature_methods, pnas, elife, biostatistics, plos_comp_bio, plos_
 key points:
 - simple framework for analysis
 - accompanying software that loads CSV files
-- instructions on how to use
+- instructions on how to use software
 
 # Introduction
 
@@ -32,6 +32,7 @@ potential references:
 
 key points:
 - bayesian graphical model (BGM) of final readout
+- what needs to be modelled, and what can be ignored? By setting things up such that plates are internally consistent, only need to do single replicates per plate, but do replicate plates on different experimental runs.
 - error modelled as 95% HPD in posterior distribution
 
 # Results
