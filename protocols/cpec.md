@@ -1,29 +1,36 @@
-## CPEC Assembly Protocol
+---
+title: CPEC Assembly
+author: Eric J. Ma
+---
 
-Starting materials:
+
+# Materials Required
+
 - PCR products that are to be stitched together.
   - Best if they are equimolar, but not necessary; the final amount of plasmid is going to be limited by the PCR product that is of the lowest concentration.
 - Kapa HF or Phusion polymerase master mix
 
-## Overview
+# Overview
 
 - Total reaction volume: 50 µL: this allows for as much PCR product as needed to be added.
 
-## Protocol
+# Protocol
 
 Mix the following together:
+
 - 25 µL polymerase master mix
 - 1 µL 100% DMSO (final concentration: 2%)
 - equal volumes of gel extracted PCR products, max total volume 24 µL
 - Top off with water to 50 µL if needed.
 
-## PCR Program
+# PCR Program
 
 Use Phusion or Kapa program.
+
 - Extension time should be 30 sec/kb, done for the length of the full plasmid. Alternatively for convenience, since most plasmids are going to be less than 10 kb, a standard 5 min extension time should suffice.
 - Annealing temperature should be set to 65ºC.
 
-## Downstream steps
+# Downstream steps
 
 - **PCR Purification:** Use the QIAquick PCR Purification kit to clean up the DNA.
 - **Transformation:** Use chemical transformation or electroporation. Plate on appropriate antibiotic resistance plate.
