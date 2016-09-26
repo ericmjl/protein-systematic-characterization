@@ -25,7 +25,7 @@ This is a summary of the DH5-alpha sub-cloning efficiency transformation protoco
 1. Thaw competent cells on **wet** ice.
 1. Pre-chill 1.5 mL microcentrifuge tubes on ice as well.
 1. 1 transformation should use 50 µL of competent cells; aliquot the number of transformations required.
-1. Add 1-5 µL of DNA ot cells and mix gently.
+1. Add 1-5 µL of DNA into cells and mix gently.
 1. Incubate tubes on ice for 30 min.
 1. Heat tubes for 1 min at 42ºC. Use heat block.
 1. Chill tubes on ice for 2 min.
