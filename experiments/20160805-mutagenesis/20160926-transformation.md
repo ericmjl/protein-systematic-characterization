@@ -28,3 +28,5 @@ Did two platings: one with 100 µL of recovery culture, one with "the rest" of t
 
 - Picked 4 colonies from VicPB2 to grow up and miniprep (tubes are labelled "VIC (1)...(4)").
 - Picked 16 colonies from CPEC library to grow up and miniprep (tubes are labelled "LIB (1)...(16)").
+
+Each tube had 2 mL LB-Amp.
