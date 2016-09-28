@@ -24,9 +24,18 @@ Did two platings: one with 100 µL of recovery culture, one with "the rest" of t
 
 - Note: "TNTC" stands for "too numerous to count", i.e. >30
 
-## Next Steps
+## Colony Picking
 
 - Picked 4 colonies from VicPB2 to grow up and miniprep (tubes are labelled "VIC (1)...(4)").
 - Picked 16 colonies from CPEC library to grow up and miniprep (tubes are labelled "LIB (1)...(16)").
 
 Each tube had 2 mL LB-Amp.
+
+## Miniprep
+
+Followed the Qiagen Miniprep protocol. No exceptions occurred. DNA concentrations are [here](./20160928-library-concentration.tsv).
+
+The naming system is as follows:
+
+- V1-4: stands for "V"ictoria PB2, colonies 1-4.
+- L1-16: stands for "L"ibrary, colonies 1-16.
