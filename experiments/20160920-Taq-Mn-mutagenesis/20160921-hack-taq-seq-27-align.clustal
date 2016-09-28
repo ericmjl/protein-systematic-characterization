@@ -1,0 +1,87 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+no-Mn-re-EM-27_D12.ab1      NNNNNNNTNNNNACNGNCNNNANNNCTGACAATATCTTATTCATCCTCNATGATNNGGAA
+25-Mn-re-EM-27_F12.ab1      --------NNNNCT-NNNNNNNTCCCTGT--GTTTCACTGACCTCCTCAGGAGATAAT--
+55-Mn-re-EM-27_H12.ab1      NNNNNNNNNNNGTC-TNNNNGTTCCCTGT--GTTTCACTGACCTCCTCAGGAGATAAT--
+                                    ***     * **  .  ***:  .*:**: : :*.***** . ..:. .   
+
+no-Mn-re-EM-27_D12.ab1      CANTAATGGTCCTGATTCGGTTTTGGTCAATACCTATCAATGGATCATCATAAGGTGG--
+25-Mn-re-EM-27_F12.ab1      --AATACATTCCCACGTTGNTCTCANT-TANGCTTT--------TCN-CTTTTG--GGGG
+55-Mn-re-EM-27_H12.ab1      --AATACATTCCCACGTTGGTATCANN-TATCCTTT--------TCC-CCTTTTGCAAGG
+                               ::* . *** .. * * * * . . :*. * *:        **  * *::   ..  
+
+no-Mn-re-EM-27_D12.ab1      -GAAGCTGTC-------------------NAAATTCACTGGTCTCACAATCCTGCANTGT
+25-Mn-re-EM-27_F12.ab1      TGACGCNNTTTTTGATGCTNAATGCTGGNCCGTATCTTCTGTCTTCCTTACCTANAATGA
+55-Mn-re-EM-27_H12.ab1      AGACGCANTTCATTGAGCTTANTGCNGGTCCNTANCTTCTGTCTTCCTTACCNN-TTGGA
+                             **.**  *                     . ::.*:   **** .*:::**.  :  *:
+
+no-Mn-re-EM-27_D12.ab1      TGTTCAATACAATGGAATTTGAACCNTTTCAAT-CTTTAGTCCCCAAGGCCATAATGNNC
+25-Mn-re-EM-27_F12.ab1      -------------------GGAACCCTCTCAAGACGGCGGACTCCAC-TC-CTGATGTGC
+55-Mn-re-EM-27_H12.ab1      -------------------GGAACCCTCTCAAGACGGCNGAGGCCAT-TC-CTGATGTGC
+                                                ***** * ****  *    *:  ***   * .*.***. *
+
+no-Mn-re-EM-27_D12.ab1      TTCTACAGTGGGNTTGTCN-----------AAACTCTATTCCAACAAATGAGAGACGTA-
+25-Mn-re-EM-27_F12.ab1      TTT--CATCTGGGTCTTCAATTAAAGTGCCGGCATCTTTTCCGATAATTGTTAGCCTTTT
+55-Mn-re-EM-27_H12.ab1      TTT--CNGGGGGGGCTTCAATTAAAGTGCCGGCATCTTTTCCCAGAATTGGTANCCTTTT
+                            **   *    **    **            ....***:**** * **:**  * .* *: 
+
+no-Mn-re-EM-27_D12.ab1      ---------------------CTTGGGACTTTTGACCCTGCCCANATAATAAAGCTTCTC
+25-Mn-re-EM-27_F12.ab1      AGTGGTTTTGTTGAAAATGAATACAGGACAATTGCCCCTTACAAG-----TATTCTCATC
+55-Mn-re-EM-27_H12.ab1      AGTGGTTTTGATGAAAATGAATACCCGATAATTGCCCCTTACAAG-----TATTCACATC
+                                                  :   ** ::***.**** .*.*      :*: *: .**
+
+no-Mn-re-EM-27_D12.ab1      CCTTTTGCNTTTGCTCCACCGAAACAAATGAGACTGTCATTTTCTTCACTGACGGTGAAA
+25-Mn-re-EM-27_F12.ab1      CCTGATCC-------CCT----------------------CACATTCCCAGTCGGTGAAG
+55-Mn-re-EM-27_H12.ab1      CCAGATCC-------CCT----------------------CNCTTTCACGATCGGGGAAG
+                            **: :* *       **:                          ***.* .:*** ***.
+
+no-Mn-re-EM-27_D12.ab1      GTGACGGGATGATGTGTGACAATACT---------------------------------T
+25-Mn-re-EM-27_F12.ab1      AGAACTGCATTC-----TGCTTTGCTTCGGTGGAGCAGCTGCNAAAGGGANAAGCTTTAT
+55-Mn-re-EM-27_H12.ab1      AGAAGTGCNTTC-----GGCTTTGCTTCGGTGGAGCAGCTGCTAAANGGANAAGCTTTAT
+                            . .*  *  * .      .*::*.**                                 *
+
+no-Mn-re-EM-27_D12.ab1      GTACGGGGCAAT------TCTCCTGCATTCTTCTACAAAAAAACCACTAAAAGGCTAACA
+25-Mn-re-EM-27_F12.ab1      TATCTGGGCAGTGTCNAATGTCCCN-------------------------------AGTA
+55-Mn-re-EM-27_H12.ab1      TATCTGGGCAGTGTCNNNTGTCCCA-------------------------------AGTA
+                             ::* *****.*      * ***                                 *. *
+
+no-Mn-re-EM-27_D12.ab1      ATTCTCTCAAAGGATG----CGGGAACTTTAATTGAANACCCNNTATGANGGNNTCCNNN
+25-Mn-re-EM-27_F12.ab1      CGTCTCTCATTTGTTGGAATAGAGTTC-----TGACNAACCCACTGNATTGGCTTCTAAT
+55-Mn-re-EM-27_H12.ab1      CNTCNCTCATTTGTTGGAATAGAGTTC-----NGACNNACCCNNTGTATTGGCTTCTANT
+                            . **.****:: *:**    .*.*::*     . ..  ****  *...:.** .**   .
+
+no-Mn-re-EM-27_D12.ab1      AGTGNAGNCCACCNT---CNTGAGAGGGNNNCTCATTATCNTTAAGGAGNACAAANNAGA
+25-Mn-re-EM-27_F12.ab1      GGCCTTGNN-GACTAAAGATTGAAATGGN-TCA-NATTCCATTTTGTTGTACAACATTGC
+55-Mn-re-EM-27_H12.ab1      GNCCTTGNGCGACTAAAGANTGAAATGCT-TCA-NATTCCATTTTGATGNACAACATTGC
+                            .   .:**  ..*.:   ..***.* * . .*:  :*: * **::* :*.****. .:*.
+
+no-Mn-re-EM-27_D12.ab1      CNGANTCNCATTCANTTTCAATGAACTGACTTCCCNNGTNCAGAGGAAANAGGNTAATGT
+25-Mn-re-EM-27_F12.ab1      AGGATTCTGAGACCATTGAATTTTGACAGCTTCCCAATTTCTGANGATNCCATTGATAGG
+55-Mn-re-EM-27_H12.ab1      NNGATTCTGANACCATTGAATTTTGACAGCTTCCCAATTTCTGATGAT-CCATTGATANN
+                              **.**. * :*. ** .*:* :.. ..******   *.*:** **:  .. . *::  
+
+no-Mn-re-EM-27_D12.ab1      NNTANT-CNCA-NACGANN--NNNGNNGTTGANNCTCCCACATCANCNGCNATNTAGNAT
+25-Mn-re-EM-27_F12.ab1      TATTGACCAAAAACCGACT-CNNGACCGTTTAATCTCCCACATCATCNACGATGANNAAN
+55-Mn-re-EM-27_H12.ab1      NATTGACCAAGA-CCGACTNCAGGACC-GTTAATCTCCCACATCATCNACGATGANNANT
+                            . *: : * ..  .*** .     .    * * .***********.**.* ** :    .
+
+no-Mn-re-EM-27_D12.ab1      ACNTNGTGACCCCCACACATCCNCGANNATAANTCNCATGCCNCATCNANANAANNNNCA
+25-Mn-re-EM-27_F12.ab1      NTANTGTCAGTCTCTCANNTCCCTGTNN----TTCACTGACCTCCTCAGNA--NANA--A
+55-Mn-re-EM-27_H12.ab1      TTATNGTCNGTCTCTCAGCTCCCNGTGN----NTCNNNGACCNNCNNNANGNAAANA--A
+                               ..**    * *:**  ***  *: *    .**    .**. ..  .*.    *   *
+
+no-Mn-re-EM-27_D12.ab1      NNNNCCTNNNNNAGCCCCNNNNCGGGCGATNNGCTTCCNATNANNNCNNGANNNGNATCA
+25-Mn-re-EM-27_F12.ab1      TAATAC-----NNNCCCACNNTTGGGT---------------------------------
+55-Mn-re-EM-27_H12.ab1      NNNNAC-----NTTCCCNNNTTTGNNN---------------------------------
+                            .  ..*     *  ***  *.. *                                    
+
+no-Mn-re-EM-27_D12.ab1      NNNNNNNTNNNNNNGAANNANNCNNNCANNNTNNNAANGCANNNNANNNNATGCTNTTAN
+25-Mn-re-EM-27_F12.ab1      --NNNNNANNN-------------------------------------------------
+55-Mn-re-EM-27_H12.ab1      --NNNNN-----------------------------------------------------
+                              *****                                                     
+
+no-Mn-re-EM-27_D12.ab1      TNTGNNNAANNNTTGNTGNANNNNNTNNTTGNNTNNNNNN
+25-Mn-re-EM-27_F12.ab1      ----------------------------------------
+55-Mn-re-EM-27_H12.ab1      ----------------------------------------
+                                                                    
