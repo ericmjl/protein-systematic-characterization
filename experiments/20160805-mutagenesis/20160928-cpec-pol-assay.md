@@ -5,12 +5,12 @@
 
 ### Cell culture
 
-Followed [cell culture protocol](protocols/cell-culture.md) for preparing for polymerase assay.
+Followed [cell culture protocol](../../protocols/cell-culture.md) for preparing for polymerase assay.
 Cells were grown in 1:10 concentration, and used at 80% confluence after one day incubation period.
 
 ### Transfection
 
-Followed [transfection protocol](protocols/transfection.md) using the following testing setup.
+Followed [transfection protocol](../../protocols/transfection.md) using the following testing setup.
 
 **Assay Wells**
 
@@ -24,4 +24,4 @@ Followed [transfection protocol](protocols/transfection.md) using the following 
 - PCD: Positively-constituted reporter
 - PHH: only Gluc reporter gene added
 - V1: full template polymerase plasmid, no mutations
-- L1-L16: polymerase plasmids with mutated PB2 part 2
+- L1-L16: polymerase plasmids with mutated PB2 part 2. The 7 mutants were selected from a library of 16 based on their high DNA concentrations.
