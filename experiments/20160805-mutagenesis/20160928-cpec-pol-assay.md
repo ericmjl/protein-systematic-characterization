@@ -25,3 +25,7 @@ Followed [transfection protocol](../../protocols/transfection.md) using the foll
 - PHH: only Gluc reporter gene added
 - V1: full template polymerase plasmid, no mutations
 - L1-L16: polymerase plasmids with mutated PB2 part 2. The 7 mutants were selected from a library of 16 based on their high DNA concentrations.
+
+### Luminometrics
+
+Data is [here](../../data/Luminometrics/20161003-cpec-pol-assay)
