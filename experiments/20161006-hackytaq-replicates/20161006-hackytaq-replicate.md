@@ -90,6 +90,6 @@ All samples were sent for Sanger sequencing. ([Order](./20161006-hackytaq-sequen
 
 ## Results
 
-I very "hackily" created a multiple sequence alignment of this round's sequence data by combining it with the data in the [temp-hackytaq](../temp-20160927-hackytaq) data. Viewing it [online](./alignment.png) showed that the 0 mM Mn<sup>2+</sup> controls all showed high mutation rates relative to the gold standard Victoria PB2 sequence.
+I very "hackily" created a multiple sequence alignment of this round's sequence data by combining it with the data in the [temp-hackytaq](../temp-20160927-hackytaq) data. Viewing it [online](./alignment.png) showed that the 0 mM Mn<sup>2+</sup> controls all showed high mutation rates relative to the gold standard Victoria PB2 sequence. As support, I also noticed that the CRL (continuous read length) on [this run](./sequencing-quality.png) was oddly low compared to the [previous run](./sequencing-quality-previous.png). 
 
 I think there may have been an error in my sample preparation. I will get Vivian to observe how I set up the PCR to see whether I'm doing something differently from what she did.
