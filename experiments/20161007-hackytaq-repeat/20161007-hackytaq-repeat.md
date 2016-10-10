@@ -20,3 +20,28 @@ I repeated the experiment with the following modifications:
     1. 0.35 mM
     1. 0.4 mM
     1. 0.5 mM
+
+## Gel
+
+One possible hypothesis as to why there were poor sequencing results was because of mixed PCR products. This was raised by the Genewiz staff last week on Friday (7 October 2016). As such, I will run a gel of this PCR set.
+
+Gel composition:
+
+- 1% (w/v) LE agarose in TBE
+- 10 µL Ethidium bromide
+
+Loaded 5 µL of PCR product and 5 µL of gel.
+
+Gel order (from left to right):
+
+- 100 bp ladder
+- 0.0 mM
+- 0.05 mM
+- 0.1 mM
+- 0.2 mM
+- 0.25 mM
+- 0.3 mM
+- 0.35 mM
+- 0.4 mM
+- 0.5 mM
+- 100 bp ladder
