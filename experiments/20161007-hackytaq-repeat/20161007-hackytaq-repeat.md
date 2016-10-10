@@ -62,4 +62,12 @@ I discarded the current PCR products.
 
 I re-ran the PCR, except this time making sure to set the Tm at 60ºC.
 
-PCR master mix follows the [previous experiment](../20161006-hackytaq-replicates/20161006-hackytaq-replicate.md). 
+PCR master mix follows the composition of [previous experiment](../20161006-hackytaq-replicates/20161006-hackytaq-replicate.md), except master mix volumes are calculated for 9.9 reactions.
+
+## Gel
+
+Here's a gel of the PCR reaction at 60ºC.
+
+![gel-run-2](./gel-run-2.jpg)
+
+They are all correct, so I will PCR purify the reactions and send them in for sequencing.
