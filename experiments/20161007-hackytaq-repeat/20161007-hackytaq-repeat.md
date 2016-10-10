@@ -71,3 +71,9 @@ Here's a gel of the PCR reaction at 60ºC.
 ![gel-run-2](./gel-run-2.jpg)
 
 They are all correct, so I will PCR purify the reactions and send them in for sequencing.
+
+PCR purification concentrations are linked [here](./20161010-hackytaq-pcr-purification.tsv).
+
+## Sequencing
+
+Sequencing order is linked [here](./20161010-Sequencing_order.pdf).
