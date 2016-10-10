@@ -55,3 +55,11 @@ Gel Image:
 One look at the gel and I realized what was going wrong. The melting temperature was incorrect. I had used 68ºC in this PCR round; in fact, it should have been 60ºC.
 
 The next steps are clear: do a repeat run but with Tm at 60ºC.
+
+I discarded the current PCR products.
+
+## Re-run PCR
+
+I re-ran the PCR, except this time making sure to set the Tm at 60ºC.
+
+PCR master mix follows the [previous experiment](../20161006-hackytaq-replicates/20161006-hackytaq-replicate.md). 
