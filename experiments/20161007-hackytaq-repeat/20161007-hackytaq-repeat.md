@@ -64,6 +64,18 @@ I re-ran the PCR, except this time making sure to set the Tm at 60ºC.
 
 PCR master mix follows the composition of [previous experiment](../20161006-hackytaq-replicates/20161006-hackytaq-replicate.md), except master mix volumes are calculated for 9.9 reactions.
 
+For convenience (for my future self), I am adding here what the exact PCR program was:
+
+| Temperature (ºC) | Time (min, sec) | Cycles |
+|------------------|-----------------|--------|
+| 95               | 1, 00           | 1      |
+| 95               | 0, 15           | 40     |
+| 60               | 0, 15           | 40     |
+| 72               | 2, 00           | 40     |
+| 72               | 10, 00          | 1      |
+| 4                | inf             | 1      |
+
+
 ## Gel
 
 Here's a gel of the PCR reaction at 60ºC.
@@ -76,4 +88,4 @@ PCR purification concentrations are linked [here](./20161010-hackytaq-pcr-purifi
 
 ## Sequencing
 
-Sequencing order is linked [here](./20161010-Sequencing_order.pdf).
+Sequencing order is linked [here](./20161010-Sequencing_order.pdf). Standard composition: 10 µL of sample + 5 µL of primer.
