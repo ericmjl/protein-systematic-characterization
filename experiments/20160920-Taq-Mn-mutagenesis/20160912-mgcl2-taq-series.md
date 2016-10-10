@@ -45,6 +45,8 @@ Labelled with 1, 2, or T and [MnCl2]
 
 Used mytaq red program in PCR machine.
 
+10/10/2016 Update: The Tm was not recorded, but it is possible that 58C was used.
+
 ## Analysis
 
 **DNA Concentration**

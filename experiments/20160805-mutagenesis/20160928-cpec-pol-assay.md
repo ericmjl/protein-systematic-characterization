@@ -29,3 +29,10 @@ Followed [transfection protocol](../../protocols/transfection.md) using the foll
 ### Luminometrics
 
 Data is [here](../../data/Luminometrics/20161003-cpec-pol-assay)
+
+### Sequencing
+
+Ordered sequencing.
+- Quality of sequencing is [here](./20161006-cpec-seq-order.PNG)
+- [Aligned forward sequences](./20161006-cpec-align.clustal)
+- [Aligned reverse sequences](./20161006-cpec-reverse-align.clustal)
