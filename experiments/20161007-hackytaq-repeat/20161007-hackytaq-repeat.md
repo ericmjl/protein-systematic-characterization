@@ -45,3 +45,13 @@ Gel order (from left to right):
 - 0.4 mM
 - 0.5 mM
 - 100 bp ladder
+
+Gel Image:
+
+![gel](./gel.jpg)
+
+## Interpretation
+
+One look at the gel and I realized what was going wrong. The melting temperature was incorrect. I had used 68ºC in this PCR round; in fact, it should have been 60ºC.
+
+The next steps are clear: do a repeat run but with Tm at 60ºC.
