@@ -89,3 +89,19 @@ PCR purification concentrations are linked [here](./20161010-hackytaq-pcr-purifi
 ## Sequencing
 
 Sequencing order is linked [here](./20161010-Sequencing_order.pdf). Standard composition: 10 µL of sample + 5 µL of primer.
+
+## Alignment
+
+I created a script (`sequencing-results/align.py`) that can be used to align the sequencing traces using Clustal Omega (v1.2.3, Mac OS X) locally.
+
+## Results & Discussion
+
+The sequencing results really don't look good. There shouldn't be large gaps in the middle portion of the alignment. My first gut feeling tells me that there is an error with the sequencing results, and it's likely because I'm using purified PCR products that still contain a mixture of DNA.
+
+Let me do some meta-thinking here. We are most interested in how many mutations will show up in the final clones. However, right now with PCRs, we aren't measuring that. We are measuring (only very crudely) the number of positions in a PCR product that show up as different from the original. This may not necessarily be the number of mutations that end up in a final clone; it may well be an under-estimate, as mutations that show up in lower frequencies amongst the PCR product pool are not likely to show up as the consensus PCR product sequence.
+
+Right now, I'm not sure if there's any more value in trying to repeat this experiment in its current state (PCR purify + sequencing), as I'm unable to replicate the results. I think the most I'm willing to do as a last attempt is to gel purify the PCR product and send it in for sequencing.
+
+I'm also starting to think that a more sure way to measure the number of mutations that we expect to show up is to clone the PCR fragments and sequence multiple clones.
+
+I think this should be done, but not merely for the sake of getting sequences. Perhaps the experiments can be a by-product of testing the polymerases. For example, since we have to sequence the clones that are tested anyways, might as well try doing random mutagenesis using anywhere between 0 to 0.30 mM manganese + PacBio sequencing with barcoding (oh yes! still haven't done barcoding!). May still want to Sanger sequence some of these clones anyways to confirm that the PacBio sequencing is at least consistent with the Sanger sequence.
