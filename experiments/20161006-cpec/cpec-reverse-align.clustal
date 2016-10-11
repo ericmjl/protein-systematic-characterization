@@ -1,0 +1,362 @@
+CLUSTAL O(1.2.3) multiple sequence alignment
+
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       -------------------------------------AAANNNNCNATNCNAATTCTTTC
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      --------------------------------------AANNNNCNATNCNAATTCTTTT
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ---------------------------------------NNNNNCNATNCNAATTNTTTT
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      --------------------------------------NNNNNNCNATCCNAATTNTTTT
+A/Victoria/361/2011|KJ942687             GTAGAAACAAGGTCGTTTTTAAACTATTCAGCATTAATTGATGGCCATCCGAATTCTTTT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ---------------------------------------NNNNNNNATNCNAATTNTTTT
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ---------------------------------------NNNNNNNATCCNAATTNTTTT
+                                                                                  ...  ** *.**** *** 
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       GGNCGCTGTCTGGCTGTCAGTAAGTATGCTAGAGTCCCGTTTTCGTTTCATTACCAACAC
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      GNNCGCTGTCTGGCTGTCAGTAAGTATGCTAGAGTCCCGTTTTCGTTTCATTACCAACAC
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       GNNCGCTGTCTGGCTGTCAGTAAGTATGCTAGAGTCCCGTTTTCGTTTCACTACCAACAC
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      GNNCGCTGTCTGGCTGTCAGTAAGTATGCTAGAGTCCCGTTTTCGTTTCATTACCAACAC
+A/Victoria/361/2011|KJ942687             GGTCGCTGTCTGGCTGTCAGTAAGTATGCTAGAGTCCCGTTTTCGTTTCATTACCAACAC
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       GNNCGCTGTCTGGCTGTCAGTAAGTATGCTAGAGTCCCGTTTTCGTTTCATTACCAACAC
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      GNNCGCTGTCTGGCTGTCAGTAAGTATGCTAGAGTCCCGTTTTCGTTTCATTACCAACAC
+                                         *..*********************************************** *********
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       CACGTCTCCTTGCCCGATTAGCACATTAGCCTCTTCCCCTTTTGCAAGGTTACTCAGTTC
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      CACGTCTCCTTGCCCGATTAGCACATTAGCCTTTTCCCCTTTTGCAAGGTTACTCAGTTC
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       CACGTCTCCTTGCCCGATTAGCACATTAGCCTTTTCCCCTTTTGCAAGGTTACTCAGTTC
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      TACGTCTCCTTGCCCGATTAGCACATTAGCCTTTTCCCCTTTTGCAAGGTTACTCAGATC
+A/Victoria/361/2011|KJ942687             CACGTCTCCTTGCCCGATTAGCACATTAGCCTTTTCCCCTTTTGCAAGGTTACTCAGTTC
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       CACGTCTCCTTGCCCGATTAGCACATTAGCCTTTTCCCCTTTTGCAGGGTTACTCAGTTC
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      CACGTCTCCTTGCCCGATTAGCACATTAGCCTTTTCCCCTTTTGCAAGGTTACTCAGTTC
+                                          ******************************* *************.**********:**
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ATTGATGCTTAATGCTGGTCCGTATCTTCTGTCTTCCTTACCTATAATGAGGAACCCTCT
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ATTGATGCTCAATGCTGGTCCATATCTCCTGTCTTCCTTACCTATAATGAGGAACCCTCT
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ATTGATGCTTAATGCTGGTCCGTATCTTCTGTCTTCCTTACCTATAATGAGGAACCCTCT
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ATTGATGCTTAATGCTGGTCCGTATCTTCTGTCTTCCTTACCTATAATGAGGAACCCTCT
+A/Victoria/361/2011|KJ942687             ATTGATGCTTAATGCTGGTCCGTATCTTCTGTCTTCCTTACCTATAATGAGGAACCCTCT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ATTGATGCTTAATGCTGGTCCGTATCTTCTGTCTTCCTTACCTATAATGAGGAACCCTCT
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ATTGATGCTTAATGCTGGTCCGTATCTTCTGTCTTCCTTACCTATAATGAGGAACCCTCT
+                                         ********* ***********.***** ********************************
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       CAAGACGGCGGACTCCACTCCTGATGTGCTTTCATCTAGGTCTTCAATTAAAGTGCCGGC
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      CAAGACGGCGGACTCCACTCCTGATGTGCTTTCATCTGGGTCTTCAATTAAAGTGCCGGC
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       CAAGACGGCGGACTCCACTCCTGATGTGCTATCATCTGGGTCTTCAATTAAAGTGCCGGC
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      CAGGACGGCGGACTCCACTCCTGATGTGCTTTCATCTGGGTCTTCAATTAAAGTGCCGGC
+A/Victoria/361/2011|KJ942687             CAAGACGGCGGACTCCACTCCTGATGTGCTTTCATCTGGGTCTTCAATTAAAGTGCCGGC
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       CAAGACGGCGGACTCCACTCCTGATGTGCTTTCATCTGGGTCTTCAATTAAAGTGCCGGC
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      CAAGACGGCGGACTCCACTCCTGATGTGCTTTCATCTGGGTCTTCAATTAAAGTGCCGGC
+                                         **.***************************:******.**********************
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ATCTTTTCCGAGAATTGTTAGCCTTTTAGTGGTTTTGTTGTAGTTGAATACAGGAGAATT
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ATCTTTTCCGAGAATTGTTAGCCTTTTACTGGTTTTGTTGTAGTTGAATACAGGAGAATT
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ATCTTTTCCGAGAATTGTTAGCCTTTTAGTGGTTTTGTTGTAGTTGAATACAGGAGAATT
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ATCTTTTCCGAGAATTGTTAGCCTTTTAGTGGTTTTGTTGTAGTTGAATACAGGAGAACT
+A/Victoria/361/2011|KJ942687             ATCTTTTCCGAGAATTGTTAGCCTTTTAGTGGTTTTGTTGTAGTTGAATACAGGAGAATT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ATCTTTTCCGAGAATTGTTAGCCTTTTAGTGGTTTTGTTGTAGTTGAATACAGGAGAATT
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ATCTTTTCCGAGAATTGTTAGCCTTTTAGTGGTTTTGTTGTAGTTGAATACAGGAGAATT
+                                         **************************** ***************************** *
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       GCCCCTTACAAGTATTCTCATCCCTGATCCCCTCACATTCACAGTCAGTGAAGAGAACTG
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      GCCCCTTACAAGTATTCTCATCCCTGATCCCCTCACATTCACAGTCAGTTAAGAGAACTG
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       GCCCCTTACAAGTATTCTCATCCCTGATCCCCTCACATTCACAGTCAGTGAAGAGAACTG
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      GCCCCTTACAAGTATTCTCAACCCTGATCCCCTCACATTCACAGTCAGTGAAGAGAACTG
+A/Victoria/361/2011|KJ942687             GCCCCTTACAAGTATTCTCATCCCTGATCCCCTCACATTCACAGTCAGTGAAGAGAACTG
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       GCCCCTTACAAGTATTCTCATCCCTGATCCCCTCACATTCACAGTCAGTGAAGAGAACTG
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      GCCCCTTACAAGTATTCTCATCCCTGATCCCCTCACATTCACAGTCAGTGAAGAGAACTG
+                                         ********************:**************************** **********
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       CATTCTGCTTTGCTTCGGTGGAGCAGCTGCAAAAGGGTGAAGCTTTATTATCTGGGCAGT
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      CATTCTGCTTCGCTTCGGTGGAGCAGCTGCAA-CGGGAGAAGCTTTATTATCTGGGCAGT
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       CATTCTGCTTTGCTTCGGTGGAGCAGCTGCAAAAGGGAGAAGCTTTATTATCTGGGCAGT
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      CATTCTGCTTTGCTTCGGTGGAGCAGCTGCAAAAGGGAGAAGTTTTATTATCTGGGCAGT
+A/Victoria/361/2011|KJ942687             CATTCTGCTTTGCTTCGGTGGAGCAGCTGCAAAAGGGAGAAGCTTTATTATCTGGGCAGT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       CATACTGCTTTGCTTCGGTGGAGCAGCTGCAAAAGGGAGAAGCTTTATTATCTGGGCAGT
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      CATTCTGCTTTGCTTCGGTGGAGCAGCTGCAAAAGGGAGAAGCTTTATTATCTGGGCAGT
+                                         ***:****** ********************* .***:**** *****************
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       GTCAAATGTCCCAAGTACGTCTCTCATTTGTTGGAATAGAGTTCTGACAAACCCACTGTA
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      GTCAAATGTCCCAAGTACGTCTCTCATTTGTTGGAATAGAGTTCTGACAAACCCACTGTA
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       GTCAAATGTCCCAAGTACGTCTCTCATTGGTTGGAATAGAGTTCTGACAAACCCACTGTA
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      GTCAAATGTCCCAAGTACGTCTCTCATTTGTTGGAATAGAGTTCTGATAAACCCACTGTA
+A/Victoria/361/2011|KJ942687             GTCAAATGTCCCAAGTACGTCTCTCATTTGTTGGAATAGAGTTCTGACAAACCCACTGTA
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       GTCAAATGTCCCAAGTACGTCTCTCATTTGTTGGAATAGAGTTCTGACAAACCCACTGTA
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      GTCAAATGTCCCGAGTACGTCTCTCATTTGTTGGAATAGAGTTCTGACAAACCCACTGTA
+                                         ************.*************** ****************** ************
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       TTGGCTTCTAATGGCCTTGGGGACTAAAGATTGAAATGGTTCAAATTCCATTTTGTTGTA
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      TTGGCTTCTAGTGGCCTTGGGGACTAAAGATTGAAATGGTTCAAATTCCATTTTGTTGTA
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       TTGGCTTCTAATGGCCTTGGGGACTAAAGATTGAAATGGTTCAAATTCCATTTTGTTGTA
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      TTGGCTTCTAATGGCCTTGGGGACTAAAGATTGAAATGGTTCAAATTCCATTTTGTTGTA
+A/Victoria/361/2011|KJ942687             TTGGCTTCTAATGGCCTTGGGGACTAAAGATTGAAATGGTTCAAATTCCATTTTGTTGTA
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       TTGGCTTCTAATGGCCTTGGGGACTAAAGATTGAAATGGTTCAAATTCCATTTTGTTGTA
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      TTGGCTTCTAATGGCCTTGGGGACTAAAGATTGAAATGGTTCAAATTCCATTTTGTTGTA
+                                         **********.*************************************************
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       CAACATTGCAGGATTCTGAGACCATTGAATTTTGACAGCTTCCCAATTTCTGATGATCCA
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      CAACATTGCAGGATTCTGAGACCATTGAATTTTGACAGCTTCCCAATTTCTGATGATCCA
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       CAACATTATAGGATTCTGAGACCATTGAATTTTGACAACTTCCCAATTTCTGATGATCCA
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      CAACATTGCAGGATTCTGAGACCATTGAATTTTGACAGCTTCCCAATTTCTGATGATCCG
+A/Victoria/361/2011|KJ942687             CAACATTGCAGGATTCTGAGACCATTGAATTTTGACAGCTTCCCAATTTCTGATGATCCA
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       CAACATTGCAGGATTCTGAGACCATTGAATTTTGACAGCTTCCCAATTTCTGATGATCCA
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      CAACATTGCAGTATTCTGAGACCATTGAATTTTGACAGCTTCCCAATTTCTGATGATCCA
+                                         *******. ** *************************.*********************.
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       TTGATAGGTATTGACCAAAACCGACTCAGGACCGTTAATCTCCCACATCATCGACGATGA
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      TTGATAGGTATTGACCAAAACCGACTCAGGACCGTTAATCTCCCACATCATCGACGATGA
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       TTGATAGGTT-TGACCCAAACCGACTCAGGACCGTTAATCTCCCACATCATCGACGATGA
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      TTGATAGGTATTGACCAAAACCGACTCAGGTCCGTTAATCTCCCACATCATCGACGATGA
+A/Victoria/361/2011|KJ942687             TTGATAGGTATTGACCAAAACCGACTCAGGACCGTTAATCTCCCACATCATCGACGATGA
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       TTGATAGGTATTGACTAAAACCGACTCAGGACCGTTAATCTCCCACATCATTGACGATGA
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      TTGATAGGTATTGACCAAAACCGATTCAGGACCGTTAATCTCCCACATCATCGACGATGA
+                                         *********: **** .******* *****:******************** ********
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ATAAGTTATTGTCAGTCTCTCAGTTCCCTGTGTTTCACTGACCTCCTCANGAGATAATAA
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ATAAGTTATTGTCAGTCTCTCAGTTCCCTGTGTTTCACTGACCTCCTCAGGAGATAATAA
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ATAAGTTATTGTCAGACTCTCAGTTCCCTGTGTTTCACTGACCTCCTCAGGAGATAATAA
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ATAAGTAATTGTCAGTCTCTCAGTTCCCTGTGTTTCACTGACCTCCTCAGGAGATAATAA
+A/Victoria/361/2011|KJ942687             ATAAGTTATTGTCAGTCTCTCAGTTCCCTGTGTTTCACTGACCTCCTCAGGAGATAATAA
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ATAAGTTATTGTCAGTCTCTCAGTTCCCTGTGTTTCACTGACCTCCTCANGANATAATAA
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ATAAGTTATTGTCAGTCTCTCAGTTCCCTGTGTTTCACTGACCTCCTCANGANATAATAA
+                                         ******:********:*********************************.**.*******
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       TACATT-CCACGTTGGTCTCGAACTCTCAAAAACCGATCAATGCTAACCACCACCCTCTC
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      TACATTCCCACGTTGGTCTCGAACTCTCAAAAACCGATCAATGCTGACCACCACCCTCTC
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       TACATTCCCACGTTGGTCTCGAACTCTCAAAAACCGATCAATGCTAACCACCACCCTCTC
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      TACATTCCCACGTTGGTCTCGAACTCTCAAAAACCGATCAATGCTGACCACCACCCTCTC
+A/Victoria/361/2011|KJ942687             TACATTCCCACGTTGGTCTCGAACTCTCAAAAACCGATCAATGCTAACCACCACCCTCTC
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       TACATTCCCACGTTGGTCTCGAACTCTCAAAAACCGATCAATGCTAACCACCACCCTCTC
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      TACATTCCCACGTTGGTCTCGAACTCTCAAAAACCGATCAATGCTAACCACCACCCTCTC
+                                         ****** **************************************.**************
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       TGTGCTGGAGTATTCATCCACACCCATTTTGCTGACTCTA-TTCCTCTCATTGACATCTC
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      TGTGCTGGAGTATTCATCCACACCCATTTTGCTGACTCTTATTCCTCTCATTGACATCTC
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       TGTGCTGGAGTATTCATCCACACCCATTTTGCTGACTCTTATTCCTCTCATTGACATCTC
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      TGTGCTGGAGTATTCATCCACACCCATTTTGCTGACTCTTATTCCTCTCATTGACATCTC
+A/Victoria/361/2011|KJ942687             TGTGCTGGAGTATTCATCCACACCCATTTTGCTGACTCTTATTCCTCTCATTGACATCTC
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       TGTGCTGGAGTATTCATCCACACCCATTTTGCTGACTCTTATTCCTCTCATTGACATCTC
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      TGTGCTGGAGTATTCATCCACACCCATTTTGCTGACTCTTATTCCTCTCATTGACATCTC
+                                         ***************************************: *******************
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       TGTGCTTGGAGTCATGTCTGGTAT-ACTCCANCA--TTCCATCACACTGTCGATGTGTCA
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      TGTGCTTGGAGTCATGTCTGGTGATACTCCAACCATTCCCATCACACTGTCGATGTGTTC
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       TGTGCTTGGAGTCATGTCTGGTAATACTCCAACCATTCCCATCACACTGTCGATGTGTTC
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      TGTGCTTGGAGTCATGTCTGGTAATACTCCAACCATTCCCATCACACTGTCGATGTGTTC
+A/Victoria/361/2011|KJ942687             TGTGCTTGGAGTCATGTCTGGTAATACTCCAACCATTCCCATCACACTGTCGATGTGTTC
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       TGTGCTTGGNNTCATGTCTGGTAATACTCCAACCATTCCCATCACACTGTCGATGTGTTC
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      TGTGCTTGGANTCATGTCTGGTAATACTCCAACCATTCCCATCACACTGTCGATGTGTTC
+                                         ********* .***********.: ****** *.  * ******************** .
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       C--TCCC----NNTTGAAAGAGCACTTTCGCATCTTTCTGN-------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      AACTCCCCAAT-TTTGAAAGAGCACTTTCGCATCTTTCTGAAAATGNNN-----------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       AACTCCCCAAT-TTTGAAAGAGCACTTTCGCATCTTTNN---------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      AACTCCCCAAT-TTTGAAAGAGCACTTTCGCATCTTTCTNN-------------------
+A/Victoria/361/2011|KJ942687             AACTCCCCAA-TTTTGAAAGAGCACTTTCGCATCTTTCTGAAAATGCCTTAAAAGCTGAT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       AACTCCCCNAATTTTGAAAGAGCACTTTCGCATC--------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      AACTCCCCAA-TTTTGAAAGAGCACTTTCGNNNCTTTCTGAAAA----------------
+                                         .  ****     .*****************  .*                          
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             GCATGGGGTTCAACCGCTGATTTGCTCTGTTGACAAAATTCAGGTCACCTCTAACTGCTT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             TTATCATGCAATCTTCTTGTGAAAACACCATGGCCACGATTATTGCTTCGGCTATTGACT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             GTTCGTCTCTTCCACTCACTATGAGTTGAACCAATCTTCTGGTTGCTTTTCTTAGTATAG
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             CTGTTGCTCTTTTCCCTACCATTGTGAACTCCTCATACCCCTCATGTACTCTTATTCTCA
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             ATGTTTGGAGATTGCCTGTAAGCACCTCTTCTTCTTTTTTGACTGATGACCCGCTTGTTC
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             TTTTAAATGTAAAGCCACCAAAGCTGAAGGATGAGCTGATTCTCAATCCCATTGCAGCCT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             TGCATATATCCACAGCTTGTTCTTCAGTCGGGTTCTGTCTAAGAATGTCCACCATCCTTG
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             TTCCGCCAATTTGCGTGCTGTGGCACATCTCCAATAAAGATGCTAGTGGATCTGCTGATA
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             CTGCGGCTCTTCTTACTATGTTCCTGGCCGCAATAATTAGGCTTTGGTCAACATCGTCAT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             TCCTCACTCCTCCACCTGGAGTGTACATTTGTTCCCAACACGTTCCCTGAGTCAAATGTA
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             AAACTTCAATGTATATACTGCTTGTTCCGCCAGCAACTGGGAGAAATCTTGTTTTTCGTA
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             CAAGTTCTCTCTCTAACATGTATGCGACCATCAAGGGAGAAATTTTGCAATCTCGGAGCT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             CTTCTTTTTTCTCCTTAGTTATTGTTAGTTGTGATTCTGATGTTAGTATTCTGGCTCCCA
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             CTTCATTGGGAAAAACAACTTCCATAATTACATCTTGTGCCTCTTTGGCACTGAGGTCTG
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             CATGACCAGGGTTTATGTCTACTCTTCTGCGTATCTTGACTTGATTTCTGAAATGGACAG
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             GGCCAAAGGTTCCATGTTTTAACCTTTCGACTTTGTCGAAATAAGTTTTGTACACTTTTG
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             GGTAATGGACCGTACTTGTCACGGGTCCATTCCTATTCCACCATGTTACAGCCAAAGGTG
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             ATACCATCACTCTATCTGATCCAGCATCACTCATTTTACTCCATAGAGTTTGTCCTTGTT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             CATTTCTCTCCGGAACCATTTCTGTTACCCTTTTGTCAGCAGTGATTGGATATTTCATTG
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             CCATCATCCATTTCATCCTAAGTGACGGGTTCTTTTCCTGTCTCCCCGATGTGTACTTCT
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             TAATTATGGCCATATGGTCCACTGTGGTTTTTGTCAGTATCTCGCGAGTGCGAGACTGCG
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      ------------------------------------------------------------
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      ------------------------------------------------------------
+A/Victoria/361/2011|KJ942687             ACATCAGATTCCGTAGTTCTTTTATTCTTTCCATACTGAATATAATTGACCTGCTTTTGC
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       ------------------------------------------------------------
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      ------------------------------------------------------------
+                                                                                                     
+
+vic-pb2-cpec-L4-r-vic-EM27_B12.ab1       -
+vic-pb2-cpec-L16-r-vic-EM27_F12.ab1      -
+vic-pb2-cpec-L6-r-vic-EM27_C12.ab1       -
+vic-pb2-cpec-L10-r-vic-EM27_D12.ab1      -
+A/Victoria/361/2011|KJ942687             T
+vic-pb2-cpec-L1-r-vic-EM27_H11.ab1       -
+vic-pb2-cpec-L11-r-vic-EM27_E12.ab1      -
+                                          
