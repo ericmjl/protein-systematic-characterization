@@ -94,6 +94,8 @@ Sequencing order is linked [here](./20161010-Sequencing_order.pdf). Standard com
 
 I created a script (`sequencing-results/align.py`) that can be used to align the sequencing traces using Clustal Omega (v1.2.3, Mac OS X) locally.
 
+Update 12 October 2016: Running the same script that does the multiple sequence alignment on the select sequencing repeats seems to corroborate my observations of mixed PCR products. I think it is best to re-do the sequencing one last time using gel-purified PCR products. 
+
 ## Results & Discussion
 
 The sequencing results really don't look good. There shouldn't be large gaps in the middle portion of the alignment. My first gut feeling tells me that there is an error with the sequencing results, and it's likely because I'm using purified PCR products that still contain a mixture of DNA.
