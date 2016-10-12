@@ -26,3 +26,34 @@ PCR Program
 | 72          | 2, 00           | 40     |
 | 72          | 10, 00          | 1      |
 | 4           | inf             | n/a    |
+
+## Gel  
+
+After running PCR, the gel is shown below.
+
+![gel-repeated](./gel-repeat.jpg)
+
+I excised the 800 bp band from the gel.
+
+## Gel Purification
+
+Gel purification was done using the Qiagen gel purification kit. Volumes used are:
+
+| Tube | Before (g) | After (g) | Weight Gel (g) | Volume QG (µL) |
+|------|------------|-----------|----------------|----------------|
+| 0    | 0.97       | 1.27      | 0.3            | 900            |
+| 0.1  | 0.95       | 1.17      | 0.22           | 660            |
+| 0.2  | 0.94       | 1.14      | 0.2            | 600            |
+| 0.25 | 0.94       | 1.1       | 0.16           | 480            |
+| 0.3  | 0.96       | 1.21      | 0.25           | 750            |
+| 0.35 | 0.92       | 1.14      | 0.22           | 660            |
+| 0.4  | 0.93       | 1.21      | 0.28           | 840            |
+| 0.5  | 0.95       | 1.19      | 0.24           | 720            |
+
+Eluted in 12 µL, used 2 µL for measuring DNA concentration, and 10 µL for sequencing.
+
+DNA concentrations are recorded in the [TSV file](./20161012-hackytaq-pcr-purification.tsv).
+
+## Sequencing
+
+Sent in the DNA for sequencing. The sequencing order is the [attached PDF](./20161012-sequencing-order.pdf)
