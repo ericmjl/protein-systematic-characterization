@@ -57,3 +57,11 @@ DNA concentrations are recorded in the [TSV file](./20161012-hackytaq-pcr-purifi
 ## Sequencing
 
 Sent in the DNA for sequencing. The sequencing order is the [attached PDF](./20161012-sequencing-order.pdf)
+
+## Sequencing Results
+
+First off, something that looks promising:
+
+![sequencing result screenshot](./20161013-sequencing-screenshot.png)
+
+I downloaded the data to the folder `sequencing-results-final/`. I then copied over the alignment script from before and the `victoria-pb2.fasta` file to the same directory, and ran it. This time round, the sequences were aligned perfectly. I think I can use this in the `temp-20160927-hackytaq` directory.
