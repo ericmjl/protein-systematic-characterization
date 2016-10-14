@@ -64,4 +64,4 @@ First off, something that looks promising:
 
 ![sequencing result screenshot](./20161013-sequencing-screenshot.png)
 
-I downloaded the data to the folder `sequencing-results-final/`. I then copied over the alignment script from before and the `victoria-pb2.fasta` file to the same directory, and ran it. This time round, the sequences were aligned perfectly. I think I can use this in the `temp-20160927-hackytaq` directory.
+I downloaded the data to the folder `sequencing-results-final/`. I then copied over the alignment script from before and the `victoria-pb2.fasta` file to the same directory, and ran it. This time round, the sequences were aligned perfectly. I think I can use this in the `temp-20160927-hackytaq` directory. I copied the files over and appended an `r1` to the end of the filename before the `.seq` extension, and then re-ran the hackytaq notebook.
