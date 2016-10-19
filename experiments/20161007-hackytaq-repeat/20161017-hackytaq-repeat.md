@@ -81,3 +81,9 @@ After purification, the DNA concentrations are in the attached [TSV file](./2016
 | 6 | 0.5       | Eric Jinglong Ma | 10/18/2016 3:46:12 PM | 14.4               | ng/µl | 0.288 | 0.109 | 2.65    | 0.07    | DNA         | 50     |
 
 Sent in for sequencing by mixing with 5 µL of EM-28.
+
+## Results
+
+Sequencing results are in the folder [`sequencing-results-rep-2`](./sequencing-results-rep-2/) folder. Also in this directory is a [screenshot](./20161019-sequencing-results.png) of the Genewiz CLIMS interface, showing good sequencing CRL (continuous read length) scores, indicating good sequencing.
+
+I then copied the `.seq` files over to the [temp hackytaq folder](../temp-20160927-hackytaq/) folder and re-ran the notebook there.
