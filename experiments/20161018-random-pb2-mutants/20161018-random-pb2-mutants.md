@@ -60,6 +60,10 @@ PCR Program
 
 ### Gel Electrophoresis
 
+[gel](./20161018-gel-random-pb2-mutatns.JPG)
+
+| Ladder | PB2 part 1 | PB2 part 2 | pCI part 1 | pCI part 2| Ladder|
+
 - 1% w/v agar 150mL gel
 - 10 ul loading dye, 1:10 loading dye
 - 30 min @ 150V
@@ -80,6 +84,14 @@ PCR Program
 | Forward Primer | 1     | N/A     |
 | Reverse Primer | 1     | N/A     |
 | Total          | 50    | 103.4   |
+
+### Re-run Gel
+
+[gel2](./20161019-gel-pb2-rerun.JPG)
+
+| Ladder | PB2 part 1 | PB2 part 2 | Ladder|
+
+Appropriate bands present.
 
 ### Gel Extraction
 
