@@ -5,7 +5,7 @@
 
 ## Protocol
 
-Followed the [transformation protocol](../protocols/transformation.md) in the [protocols directory](../protocols/).
+Followed the [transformation protocol](../../../protocols/transformation.md) in the [protocols directory](../../../protocols/).
 
 Amount of DNA used:
 - CPEC mix: everything, did not quantify concentration of DNA.
