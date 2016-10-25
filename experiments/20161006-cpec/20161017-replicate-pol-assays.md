@@ -79,3 +79,8 @@ Mostly looked healthy, except for this clump:
 [cell pic 4](./20161023-293T-10x-clump.JPG)
 
 - By Day 3, 1:10 was about 80% confluent, but I discarded it since the clump was indication of fungal contamination. Either 1:20 or 1:40 should be ready for seeding and splitting tomorrow.
+
+**Pol Assay Cell Info**
+- Passage 1
+- Seeded from 1:20 on Day 4 at ~70% confluency
+- Cell count: 1.275 million cells per well (seeded 75ul cells in 1.5mL of DMEM)
