@@ -119,9 +119,19 @@ Purified cpec product: 35.5ng/ul, 2.12 (260/280)
 
 ### Transformation
 
-Followed transformation protocol.
+Followed [transformation protocol](../../protocols/transformation.md).
 
 Plates:
 
 | CPEC 1ul | CPEC 10ul | CPEC "rest" |
 | Control 1ul| Control 10ul | Control "rest"| (Vic template)
+
+Result: No colonies on any of the plates.
+
+Repeated transformation on 25 October 2016. Same protocol, except added pUC 19. Here is the full list of plasmids that I will transform:
+
+- pUC19 (provided with kit, control), 1 µL = 100 pg
+- VicPB2 (control), 1 µL = 416 ng
+- CPEC assembly from above 5 µL = 177.5 ng
+
+Minor protocol change: the SOC media had not fully thawed when I finished the 2 min. incubation on ice. Therefore, microwaved the SOC media for 15 seconds, resulting in SOC that was a bit too warm. I then pipetted out 950 µL into individual microfuge tubes and let them chill on ice before adding them to the cell/. In total, I let the final ice incubation step go for longer than 2 min (~4 min total).
