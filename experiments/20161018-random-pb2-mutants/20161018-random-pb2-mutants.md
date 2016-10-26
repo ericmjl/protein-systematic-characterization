@@ -73,7 +73,7 @@ PCR Program
 - pCI fragments are the appropriate sizes, so they will be extracted. For pCI part 1, there is some ambiguity in the bands - I extracted the bottom half of the mush.
 - Very faint PB2 part 2 band, indiscernible part 1 band - will re-run both with 0.25mM instead, since previous gel showed that 0.50mM yields very few PCR products.
 
-### Re-run PCR for PB2
+## Re-run PCR for PB2
 
 | Reagent        | 1 rxn | 2.2x MM |
 |----------------|-------|---------|
@@ -85,7 +85,7 @@ PCR Program
 | Reverse Primer | 1     | N/A     |
 | Total          | 50    | 103.4   |
 
-### Re-run Gel
+## Re-run Gel
 
 [gel2](./20161019-gel-pb2-rerun.JPG)
 
@@ -93,7 +93,7 @@ PCR Program
 
 Appropriate bands present.
 
-### Gel Extraction
+## Gel Extraction
 
 pCI part 1: 62mg
 pCI part 2: 83mg
@@ -111,13 +111,13 @@ PB2 part 2: 100mg
 
 Despite discouraging results, we decided to proceed with CPEC anyway*
 
-### CPEC Assembly
+## CPEC Assembly
 
 Followed same procedure as before.
 
 Purified cpec product: 35.5ng/ul, 2.12 (260/280)
 
-### Transformation
+## Transformation
 
 Followed [transformation protocol](../../protocols/transformation.md).
 
