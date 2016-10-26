@@ -135,3 +135,22 @@ Repeated transformation on 25 October 2016. Same protocol, except added pUC 19. 
 - CPEC assembly from above 5 µL = 177.5 ng
 
 Minor protocol change: the SOC media had not fully thawed when I finished the 2 min. incubation on ice. Therefore, microwaved the SOC media for 15 seconds, resulting in SOC that was a bit too warm. I then pipetted out 950 µL into individual microfuge tubes and let them chill on ice before adding them to the cell/. In total, I let the final ice incubation step go for longer than 2 min (~4 min total).
+
+On 26 October 2016, checking on the plates, here's the number of colonies counted.
+
+| Sample | DNA (ng) | 1 µL | 10 µL | Rest (89 µL) | Colonies per (µg DNA) |
+|--------|----------|------|-------|--------------|-----------------------|
+| CPEC   | 177.5    | 0    | 0     | 6            | 3.80E+01              |
+| pUC19  | 0.1      | 16   | TNTC  | TNTC         | 1.60E+07              |
+| VicPB2 | 416      | 3    | TNTC  | TNTC         | 7.21E+02              |
+
+Note: "TNTC" stands for "too numerous to count". Comes from a microbiology tradition.
+
+It looks like there's empirically no point in only transforming 5 µL of CPEC product. Best to elute in as small of a volume as possible (10 µL), transform the whole thing, and plate "10 µL" and "Rest".
+
+I repeated the CPEC transformation one final time. Here is the list of plasmids being transformed.
+
+- VicPB2 (control), 5 µL = 2.265 µg
+- CPEC, 15 µL = 532.5 ng
+
+Plated 10 µL and 90 µL ("the rest") of transformation mix.
