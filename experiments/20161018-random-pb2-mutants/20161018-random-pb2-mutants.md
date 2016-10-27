@@ -154,3 +154,14 @@ I repeated the CPEC transformation one final time. Here is the list of plasmids 
 - CPEC, 15 µL = 532.5 ng
 
 Plated 10 µL and 90 µL ("the rest") of transformation mix.
+
+The next day, here's the number of colonies counted.
+
+| Sample | DNA (ng) | 10 µL | 90 µL | Colonies per µg DNA |
+|--------|----------|-------|-------|---------------------|
+| VicPB2 | 2265     | 55    | TNTC  | 243                 |
+| CPEC   | 532.5    | 0     | 5     | 10                  |
+
+Same order of magnitude as the previous run.
+
+Vivian picked all 10 colonies and grew them as an overnight culture in 1 mL LB-Amp.
