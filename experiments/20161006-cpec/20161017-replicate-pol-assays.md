@@ -84,6 +84,7 @@ Mostly looked healthy, except for this clump:
 - Passage 1
 - Seeded from 1:20 on Day 4 at ~70% confluency
 - Cell count upon seeding: 1.275 million cells per well (seeded 75ul cells in 1.5mL of DMEM)
+- Cell count upon transfecting, one day later: 90.5 cells, 4ul from 1ml, diluted in 16ul Tryptan. 90.5*5*10E4 = 4.525 million cells per well
 
 **Transfection:**
 - Used 1ul volume for all polymerase plasmids, since they are of similar sizes, but still used 1.5ul and 0.64ul for the reporter gene and constitutively-activated reporter respectively, as per protocol.
