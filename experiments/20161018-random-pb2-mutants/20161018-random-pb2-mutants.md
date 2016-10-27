@@ -140,7 +140,7 @@ On 26 October 2016, checking on the plates, here's the number of colonies counte
 
 | Sample | DNA (ng) | 1 µL | 10 µL | Rest (89 µL) | Colonies per (µg DNA) |
 |--------|----------|------|-------|--------------|-----------------------|
-| CPEC   | 177.5    | 0    | 0     | 6            | 3.80E+01              |
+| CPEC   | 177.5    | 0    | 0     | 5            | 3.80E+01              |
 | pUC19  | 0.1      | 16   | TNTC  | TNTC         | 1.60E+07              |
 | VicPB2 | 416      | 3    | TNTC  | TNTC         | 7.21E+02              |
 
