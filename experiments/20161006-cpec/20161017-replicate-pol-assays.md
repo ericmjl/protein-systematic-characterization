@@ -83,4 +83,8 @@ Mostly looked healthy, except for this clump:
 **Pol Assay Cell Info**
 - Passage 1
 - Seeded from 1:20 on Day 4 at ~70% confluency
-- Cell count: 1.275 million cells per well (seeded 75ul cells in 1.5mL of DMEM)
+- Cell count upon seeding: 1.275 million cells per well (seeded 75ul cells in 1.5mL of DMEM)
+
+**Transfection:**
+- Used 1ul volume for all polymerase plasmids, since they are of similar sizes, but still used 1.5ul and 0.64ul for the reporter gene and constitutively-activated reporter respectively, as per protocol.
+- Incubated for 4 hours before changing medium. Eric performed the medium change.
