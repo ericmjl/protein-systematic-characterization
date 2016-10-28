@@ -1,0 +1,11 @@
+#	Sample ID	User name	Date and Time	Nucleic Acid Conc.	Unit	A260	A280	260/280	260/230	Sample Type	Factor
+1	L17	Eric Jinglong Ma	10/28/2016 1:28:46 PM	221.0	ng/µl	4.420	2.312	1.91	2.29	DNA	50.00
+2	L18	Eric Jinglong Ma	10/28/2016 1:29:05 PM	167.3	ng/µl	3.347	1.769	1.89	1.90	DNA	50.00
+3	L19	Eric Jinglong Ma	10/28/2016 1:29:29 PM	180.5	ng/µl	3.610	1.875	1.93	2.44	DNA	50.00
+4	L20	Eric Jinglong Ma	10/28/2016 1:29:52 PM	201.6	ng/µl	4.033	2.095	1.93	2.42	DNA	50.00
+5	L21	Eric Jinglong Ma	10/28/2016 1:30:13 PM	93.6	ng/µl	1.871	0.952	1.97	2.58	DNA	50.00
+6	L22	Eric Jinglong Ma	10/28/2016 1:30:33 PM	128.8	ng/µl	2.575	1.319	1.95	2.28	DNA	50.00
+7	L23	Eric Jinglong Ma	10/28/2016 1:30:52 PM	110.1	ng/µl	2.201	1.120	1.96	2.55	DNA	50.00
+8	L24	Eric Jinglong Ma	10/28/2016 1:31:11 PM	96.1	ng/µl	1.922	0.974	1.97	2.60	DNA	50.00
+9	L25	Eric Jinglong Ma	10/28/2016 1:31:29 PM	47.4	ng/µl	0.948	0.442	2.14	2.79	DNA	50.00
+10	L26	Eric Jinglong Ma	10/28/2016 1:31:51 PM	113.0	ng/µl	2.259	1.149	1.97	2.53	DNA	50.00
