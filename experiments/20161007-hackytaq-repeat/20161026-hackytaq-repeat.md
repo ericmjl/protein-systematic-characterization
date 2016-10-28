@@ -82,3 +82,26 @@ Tube weights and volumes:
 | 0.5  | 0.94       | 1.05      | 110         | 330     | 110              |
 
 I didn't bother identifying which was replicate 1 and replicate 2, as they were conducted on the same day, and it's the concentration that I'm most interested in, not the replicate number.
+
+Eluted in 12 µL EB.
+
+## DNA concentrations
+
+The DNA concentrations are attached [here](./20161028-hackytaq-pcr-purification.tsv). For convenience, also displayed below.
+
+| #  | Sample ID | User name        | Date and Time         | Nucleic Acid Conc. | Unit  | A260  | A280  | 260/280 | 260/230 | Sample Type | Factor |
+|----|-----------|------------------|-----------------------|--------------------|-------|-------|-------|---------|---------|-------------|--------|
+| 1  | R1-0.0    | Eric Jinglong Ma | 10/28/2016 1:22:18 PM | 25.7               | ng/µl | 0.515 | 0.216 | 2.39    | 0.13    | DNA         | 50.00  |
+| 2  | R1-0.1    | Eric Jinglong Ma | 10/28/2016 1:22:59 PM | 26.6               | ng/µl | 0.533 | 0.233 | 2.28    | 0.09    | DNA         | 50.00  |
+| 3  | R1-0.2    | Eric Jinglong Ma | 10/28/2016 1:23:21 PM | 14.7               | ng/µl | 0.295 | 0.110 | 2.68    | 0.08    | DNA         | 50.00  |
+| 4  | R1-0.3    | Eric Jinglong Ma | 10/28/2016 1:23:41 PM | 12.2               | ng/µl | 0.243 | 0.075 | 3.24    | 0.14    | DNA         | 50.00  |
+| 5  | R1-0.4    | Eric Jinglong Ma | 10/28/2016 1:24:03 PM | 7.7                | ng/µl | 0.155 | 0.039 | 3.99    | 0.12    | DNA         | 50.00  |
+| 6  | R1-0.5    | Eric Jinglong Ma | 10/28/2016 1:24:24 PM | 9.0                | ng/µl | 0.181 | 0.056 | 3.22    | 0.04    | DNA         | 50.00  |
+| 7  | R2-0.0    | Eric Jinglong Ma | 10/28/2016 1:24:46 PM | 48.9               | ng/µl | 0.978 | 0.531 | 1.84    | 0.21    | DNA         | 50.00  |
+| 8  | R2-0.1    | Eric Jinglong Ma | 10/28/2016 1:25:07 PM | 21.8               | ng/µl | 0.435 | 0.190 | 2.29    | 0.14    | DNA         | 50.00  |
+| 9  | R2-0.2    | Eric Jinglong Ma | 10/28/2016 1:25:26 PM | 17.1               | ng/µl | 0.342 | 0.140 | 2.44    | 0.09    | DNA         | 50.00  |
+| 10 | R2-0.3    | Eric Jinglong Ma | 10/28/2016 1:25:45 PM | 12.6               | ng/µl | 0.252 | 0.080 | 3.13    | 0.03    | DNA         | 50.00  |
+| 11 | R2-0.4    | Eric Jinglong Ma | 10/28/2016 1:26:03 PM | 12.7               | ng/µl | 0.254 | 0.081 | 3.14    | 0.04    | DNA         | 50.00  |
+| 12 | R2-0.5    | Eric Jinglong Ma | 10/28/2016 1:26:23 PM | 4.4                | ng/µl | 0.089 | 0.004 | 25.12   | 0.04    | DNA         | 50.00  |
+
+I then sent the PCR products for sequencing with EM-28. [[Sequencing order](./20161028-sequencing-order.pdf)]
