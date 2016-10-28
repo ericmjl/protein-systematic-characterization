@@ -165,3 +165,5 @@ The next day, here's the number of colonies counted.
 Same order of magnitude as the previous run.
 
 Vivian picked all 10 colonies and grew them as an overnight culture in 1 mL LB-Amp.
+
+About 20 hours later, Vivian miniprepped the bacteria culture. 
