@@ -89,3 +89,7 @@ Mostly looked healthy, except for this clump:
 **Transfection:**
 - Used 1ul volume for all polymerase plasmids, since they are of similar sizes, but still used 1.5ul and 0.64ul for the reporter gene and constitutively-activated reporter respectively, as per protocol.
 - Incubated for 4 hours before changing medium. Eric performed the medium change.
+
+**Luminescence Test**
+
+Attempted to test both replicate pol assays, but Building 68 closes at 5pm. Froze the 1:100 v/v Gluc substrate-buffer mixture at -20C.
