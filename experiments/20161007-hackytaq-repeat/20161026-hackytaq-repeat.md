@@ -105,3 +105,15 @@ The DNA concentrations are attached [here](./20161028-hackytaq-pcr-purification.
 | 12 | R2-0.5    | Eric Jinglong Ma | 10/28/2016 1:26:23 PM | 4.4                | ng/µl | 0.089 | 0.004 | 25.12   | 0.04    | DNA         | 50.00  |
 
 I then sent the PCR products for sequencing with EM-28. [[Sequencing order](./20161028-sequencing-order.pdf)]
+
+## Sequencing Results
+
+The sequencing results were returned on Saturday, 29 October 2016. I took the liberty of adding them to the [`sequencing-results-rep-3`](./sequencing-results-rep-3/) directory. Today (31 October 2016), I took a closer look at the overall quality scores. They are below.
+
+![sequencing quality scores](./20161031-sequencing-results.png)  
+
+I've noticed this heuristic going where we ignore sequencing results that have CRL scores < 300. The intuition (as of yet unproven) is that there's mixed PCR products, and so the sequencing results are unreliable. Keeping consistent with this, in the temp-hackytack directory notebooks, I have opted to ignore the following sequencing results in the hackytaq master notebook:
+
+- 30-Mn-fw-r4-EM-28
+- 0-Mn-fw-r3-EM-28
+- 50-Mn-fw-r3-EM-28
