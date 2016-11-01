@@ -180,3 +180,7 @@ About 20 hours later, Vivian miniprepped the bacteria culture. DNA concentration
 | 8  | L24       | Eric Jinglong Ma | 10/28/2016 1:31:11 PM | 96.1               | ng/µl | 1.922 | 0.974 | 1.97    | 2.60    | DNA         | 50.00  |
 | 9  | L25       | Eric Jinglong Ma | 10/28/2016 1:31:29 PM | 47.4               | ng/µl | 0.948 | 0.442 | 2.14    | 2.79    | DNA         | 50.00  |
 | 10 | L26       | Eric Jinglong Ma | 10/28/2016 1:31:51 PM | 113.0              | ng/µl | 2.259 | 1.149 | 1.97    | 2.53    | DNA         | 50.00  |
+
+## Transfection
+
+2016-10-31: Seeded 1:40 dilution (25ul cells in 1mL DMEM) of passage-3 293T cells in a 12-well plate. The 8 mutant strains with the highest DNA concentration will be assayed.
