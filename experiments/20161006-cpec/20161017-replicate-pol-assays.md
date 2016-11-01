@@ -53,8 +53,6 @@ Followed same procedure as before.
 
 CPEC product DNA concentration: 35.5 ng/ul with 260:280 of 2.12. This makes sense, since the limiting concentration was 6.4 and the corresponding fragment is about 1/5 of the plasmid.
 
-
-
 ### Replication 1
 
 - seeded Passage 0 cells into 12-well plate at 75 ul cells in 1ml medium per well.
@@ -92,4 +90,6 @@ Mostly looked healthy, except for this clump:
 
 **Luminescence Test**
 
-Attempted to test both replicate pol assays, but Building 68 closes at 5pm. Froze the 1:100 v/v Gluc substrate-buffer mixture at -20C.
+10/28: Attempted to test both replicate pol assays, but Building 68 closes at 5pm. Froze the 1:100 v/v Gluc substrate-buffer mixture at -20C.
+
+10/31: Replication results matched those of the first pol assay. Newly tested mutant strain L7 showed complete loss-of-function.
