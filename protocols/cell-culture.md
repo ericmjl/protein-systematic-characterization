@@ -15,9 +15,9 @@ Notes:
 
 Disaggregating cultures into individual cells and separate cells from medium.
 1. Remove medium with vacuum.
-2. Add about 15mL of PBS to wash - gently to bottom of well plate so that cells are not detached. Let sit, then remove PBS.
-3. Add 5mL of Trypsin. Incubate in 37C for 10-15 min, or until cells have all detached from plate.
-4. Pipette out cell/Trypsin mixture into a 50mL conical tube. Add 2x volume of DMEM to reduce Trypsin activity.
+2. Add about 5mL of PBS to wash - gently to bottom of well plate so that cells are not detached. Let sit, then remove PBS.
+3. Add 2mL of Trypsin. Incubate in 37C for 5 min, or until cells have all detached from plate.
+4. Add 4x volume of DMEM to reduce Trypsin activity. Pipette up and down to break up aggregates of cells. Pipette out cell/Trypsin mixture into a 15mL conical tube.
 5. Centrifuge to form pellet at 1500 rpm for 5 min, 4C.
 6. Resuspend pellet with 1mL of DMEM.
 7. Add appropriate volume of cells to new plates depending on desired concentration (add 100ul for 1:10)
