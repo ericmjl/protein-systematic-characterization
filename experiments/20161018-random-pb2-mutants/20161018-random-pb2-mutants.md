@@ -193,3 +193,5 @@ About 20 hours later, Vivian miniprepped the bacteria culture. DNA concentration
 | A | Mock | PHH  | PCD | Vic |
 | B | L17   | L18   | L19  | L20  |
 | C | L22   | L23  | L24 | L26 |
+
+Volume of PB2 plasmid added: int(500ng/[DNA])
