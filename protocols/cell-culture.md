@@ -20,7 +20,7 @@ Disaggregating cultures into individual cells and separate cells from medium.
 4. Add 4x volume of DMEM to reduce Trypsin activity. Pipette up and down to break up aggregates of cells. Pipette out cell/Trypsin mixture into a 15mL conical tube.
 5. Centrifuge to form pellet at 1500 rpm for 5 min, 4C.
 6. Resuspend pellet with 1mL of DMEM.
-7. Add appropriate volume of cells to new plates depending on desired concentration (add 100ul for 1:10)
+7. Add appropriate volume of cells to new plates depending on desired concentration (add 100ul for 1:100)
 8. Add 10ml of DMEM to plates.
 9. Incubate in 37C.
 
