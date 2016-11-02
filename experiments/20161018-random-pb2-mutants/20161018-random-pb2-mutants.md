@@ -184,4 +184,4 @@ About 20 hours later, Vivian miniprepped the bacteria culture. DNA concentration
 ## Transfection
 
 2016-10-31: Seeded 1:40 dilution (25ul cells in 1mL DMEM) of passage-3 293T cells in a 12-well plate. The 8 mutant strains with the highest DNA concentration will be assayed.
-- Cell count upon seeding: 74.5*40*10E4*(25/1000) = 7.4 million cells per well
+- Cell count upon seeding: (74.5)(40)(10<sup>4</sup>)(25/1000) = 7.4 million cells per well
