@@ -76,11 +76,11 @@ Day 2 (1:10)
 Mostly looked healthy, except for this clump:
 [cell pic 4](./20161023-293T-10x-clump.JPG)
 
-- By Day 3, 1:10 was about 80% confluent, but I discarded it since the clump was indication of fungal contamination. Either 1:20 or 1:40 should be ready for seeding and splitting tomorrow.
+- By Day 3, 1:100 was about 80% confluent, but I discarded it since the clump was indication of fungal contamination. Either 1:200 or 1:400 should be ready for seeding and splitting tomorrow.
 
 **Pol Assay Cell Info**
 - Passage 1
-- Seeded from 1:20 on Day 4 at ~70% confluency
+- Seeded from 1:200 on Day 4 at ~70% confluency
 - Cell count upon seeding: 1.275 million cells per well (seeded 75ul cells in 1.5mL of DMEM)
 - Cell count upon transfecting, one day later: 90.5 cells, 4ul from 1ml, diluted in 16ul Tryptan. 90.5*5*10E4 = 4.525 million cells per well
 
