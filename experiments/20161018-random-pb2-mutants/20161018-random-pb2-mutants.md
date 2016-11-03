@@ -9,7 +9,7 @@
 1. [x] Use 0.25 mM Mn<sup>2+</sup> to create random mutants of PB2 (both parts).
 1. [x] Amplify the pol assay plasmid backbone off the VicPB2 plasmid.
 1. [x] CPEC assemble the PB2 and plasmid backbone.
-1. [ ] Transform into E. coli cells, grow overnight, miniprep, and send for sequencing.
+1. [X] Transform into E. coli cells, grow overnight, miniprep, and send for sequencing.
 
 In a separate branch, I will outline the design of new sequencing primers for sequencing portions of the polymerases.
 
