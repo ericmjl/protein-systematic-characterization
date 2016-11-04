@@ -186,7 +186,7 @@ About 20 hours later, Vivian miniprepped the bacteria culture. DNA concentration
 2016-10-31: Seeded 1:40 dilution (25ul cells in 1mL DMEM) of passage-3 293T cells in a 12-well plate. The 8 mutant strains with the highest DNA concentration will be assayed.
 - Cell count upon seeding: (74.5)(40)(10<sup>4</sup>)(25/1000) = 7.4 million cells per well
 
-2016-11-2: Transfected cells with mutant plasmids.
+2016-11-02: Transfected cells with mutant plasmids.
 
 |   | 1    | 2    | 3   | 4   |
 |---|------|------|-----|-----|
@@ -195,3 +195,5 @@ About 20 hours later, Vivian miniprepped the bacteria culture. DNA concentration
 | C | L22   | L23  | L24 | L26 |
 
 Volume of PB2 plasmid added: int(500ng/[DNA])
+
+2016-11-04: Stored supernatant in -4C. Medium was very yellow, and big clumps of cells seem to have peeled off the well bottom to float in the supernatant. They were avoided were pipetting out the sup.
