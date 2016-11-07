@@ -16,3 +16,18 @@ How long to achieve 80% confluence? To start with, I will try seeding ~140K cell
 | PHH                       | 1.5                      | 1.5                      | 1:8      |
 | pCD                       | 0.67                     | 0.67                     | 1:8      |
 | OPTIMEM + Lipofectamine MM | 252.5                    | 31.56                    | 1:1      |
+
+### Plate layout
+|  1                |   2   |  3   |  4   |  5   |   6  |  7   |  8   |
+|------------------|------|-----|-----|-----|-----|-----|-----|
+| Mock             | Mock | PHH | PHH | pCD | pCD | Vic | Vic |
+| Re-run pt2 replicate |      |     |     |     |     |     |     |
+| Re-run pt2 replicate |      |     |     |     |     |     |     |
+| Full-PB2 1    |      |     |     |     |     |     |     |
+| Full-PB2 2    |      |     |     |     |     |     |     |
+| 10x     |   10x  |  20x   |   20x  |  40x   |  40x   |  80x   |  80x   |
+|      |      |     |     |     |     |     |     |
+|      |      |     |     |     |     |     |     |
+|                  |      |     |     |     |     |     |     |
+|                  |      |     |     |     |     |     |     |
+|                  |      |     |     |     |     |     |     |
