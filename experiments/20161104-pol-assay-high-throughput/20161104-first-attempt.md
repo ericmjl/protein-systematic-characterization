@@ -49,4 +49,12 @@ Passage 5
 |  |  | 29300  | 29300   | 14650  | 14650  | 7325  | 7325  | 3663   | 3663   | 1831 | 1831 |
 |  29300      |     29300    |    29300    |   29300     |   29300     |    29300    |  29300      |     29300    |    29300    |   29300     |   29300     |    29300    |
 
-Cell-count: 293E4 cells/mL. To seed 150000 cells per well, would need 50 ul/well. Decided to lower it to 20ul of cells in 180ul of DMEM.
+Cell-count: 284E4 cells/mL. To seed 150000 cells per well, would need 50 ul/well. Decided to lower it to 20ul of cells in 180ul of DMEM.
+
+2016-11-09 Notes:
+
+There were some difficulties in working with the tray for multi-channel pipetting. It is necessary to mix the DMEM with the cell solution before seeding, or else there's not enough liquid volume to successfully use multi-channel pipette. I had to draw back up cells that I had already dispensed in the first row to resuspend them in greater quantities of DMEM. Thus the first row has a much higher cell density than rows 2-5. However, the relative cell count in wells in row 6 is consistent with rows 2-5.
+
+2016-11-10 Notes:
+
+The first row wells have uneven cell coverage, and are about 80% confluent. I've decided not to transfect them because the results would not be comparable the rest of the samples. An online guide (https://www.qiagen.com/us/resources/molecular-biology-methods/transfection/) recommends seeding a max of 30000 cells for next-day transfection at 40-80% confluence, and that seems a reasonable guideline to go by in the future.
