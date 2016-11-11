@@ -58,3 +58,15 @@ There were some difficulties in working with the tray for multi-channel pipettin
 2016-11-10 Notes:
 
 The first row wells have uneven cell coverage, and are about 80% confluent. I've decided not to transfect them because the results would not be comparable the rest of the samples. An online guide (https://www.qiagen.com/us/resources/molecular-biology-methods/transfection/) recommends seeding a max of 30000 cells for next-day transfection at 40-80% confluence, and that seems a reasonable guideline to go by in the future.
+
+2016-11-11 Transfection Notes:
+
+- Cells were approximately 60% confluent at transfection.
+- All mutant library plasmids were diluted 1:8 and added to transfection mix at 1ul volume
+
+Some possible sources of error:
+- I mixed the OPTI-MEM and other reagents directly in the tray. In the future, should definitely mix and vortex in a falcon tube first before pouring into tray.
+- I couldn't find strip tubes so I used the cheap lidless round-bottomed 96-well plates for preparing the transfection mixes, but strip tubes would definitely be better.
+
+To-do before next high-throughput attempt:
+- make dilutions of plasmids in strip tubes or 96-well plates so that they can be directly pipetted with the multi-channel
