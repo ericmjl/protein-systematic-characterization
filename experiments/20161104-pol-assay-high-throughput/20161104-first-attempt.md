@@ -70,3 +70,7 @@ Some possible sources of error:
 
 To-do before next high-throughput attempt:
 - make dilutions of plasmids in strip tubes or 96-well plates so that they can be directly pipetted with the multi-channel
+
+2016-11-12 Supernatant Extraction Notes
+
+- Cells did not appear equally distributed or evenly grown in all wells; mediums were of different colors
