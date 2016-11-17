@@ -3,7 +3,7 @@ Plate and grow eukaryotic cells for transfection.
 
 **Plate from frozen state**
 1. Add 10mL DMEM growth medium (+ growth factors) to tissue culture plate.
-2. Move cells from -80C to 37C water bath. Centrifuge cells (ask Kim for specific speed and time, but 1500rpm for 5 min should be fine), remove supernatant, and resuspend in 1mL pre-warmed DMEM.
+2. Move cells from -80C to 37C water bath. Centrifuge cells at 1500rpm for 5 min, remove supernatant, and resuspend in 1mL pre-warmed DMEM.
 3. Add 1mL cells to medium, slowly. Gently shake plate to cover. Incubate in 37C. Split about 3 days later.
 
 Notes:
