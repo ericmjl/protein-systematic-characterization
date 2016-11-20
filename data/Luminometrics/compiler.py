@@ -10,7 +10,7 @@ import os
 files = os.listdir()
 master_df = pd.DataFrame(columns = ["SampleID", "Well", "Replicate", "Well Type", "Date", "Luminescence", "Normalized to Negative", "Vlumins"])
 for file in files:
-    if file.endswith(".csv"):
+    if file.endswith(".csv") and file != "master_datafile.csv":
         df = pd.read_csv(file, index_col = "SampleID")
         df["Luminescence"] = df["Luminescence"] + 1 - df["Luminescence"].min()
         #Negative control normalization to a Mock test
@@ -21,7 +21,7 @@ for file in files:
         except:
             df["Vlumins"] = df["Normalized to Negative"]/df["Normalized to Negative"]["Vic"]
         df = df.reset_index()
-        master_df = master_df.append(df, ignore_index = True)
+        master_df = master_df.append(df, ignore_index=True)
 #Not currently overwriting...will fix asap
 master_df.to_csv("master_datafile.csv")
     
