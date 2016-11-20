@@ -22,6 +22,6 @@ for file in files:
             df["Vlumins"] = df["Normalized to Negative"]/df["Normalized to Negative"]["Vic"]
         df = df.reset_index()
         master_df = master_df.append(df, ignore_index=True)
-#Not currently overwriting...will fix asap
+#Overwrite master file with new compiled dataframe
 master_df.to_csv("master_datafile.csv")
     
