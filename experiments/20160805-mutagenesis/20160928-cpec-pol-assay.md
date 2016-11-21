@@ -6,7 +6,7 @@
 ### Cell culture
 
 Followed [cell culture protocol](../../protocols/cell-culture.md) for preparing for polymerase assay.
-Cells were grown in 1:10 concentration, and used at 80% confluence after one day incubation period.
+Cells were grown in 1:100 concentration, and used at 80% confluence after one day incubation period.
 
 ### Transfection
 
