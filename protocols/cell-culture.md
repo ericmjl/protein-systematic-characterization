@@ -3,8 +3,8 @@ Plate and grow eukaryotic cells for transfection.
 
 **Plate from frozen state**
 1. Add 10mL DMEM growth medium (+ growth factors) to tissue culture plate.
-2. Move cells from -80C to 37C water bath.
-3. Add 1mL cells to medium, slowly. Gently shake plate to cover. Incubate in 37C. Split about 3 days.
+2. Move cells from -80C to 37C water bath. Centrifuge cells at 1500rpm for 5 min, remove supernatant, and resuspend in 1mL pre-warmed DMEM.
+3. Add 1mL cells to medium, slowly. Gently shake plate to cover. Incubate in 37C. Split about 3 days later.
 
 Notes:
 -  during growth, check that the medium is red. If it's yellow, it's acidic, which is indicative of overgrowth or bacterial contamination.
@@ -20,7 +20,7 @@ Disaggregating cultures into individual cells and separate cells from medium.
 4. Add 4x volume of DMEM to reduce Trypsin activity. Pipette cells up and down until they've disaggregated. Pipette out cell/Trypsin mixture into a 15mL conical tube.
 5. Centrifuge to form pellet at 1500 rpm for 5 min, 4C.
 6. Resuspend pellet with 1mL of DMEM.
-7. Add appropriate volume of cells to new plates depending on desired concentration (add 100ul for 1:10)
+7. Add appropriate volume of cells to new plates depending on desired concentration (add 100ul for 1:100)
 8. Add 10ml of DMEM to plates.
 9. Incubate in 37C.
 
