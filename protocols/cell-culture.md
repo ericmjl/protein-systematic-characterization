@@ -27,7 +27,7 @@ Disaggregating cultures into individual cells and separate cells from medium.
 **Counting cells**
 
 1. Withdraw small volume of cells from the 1mL suspension of cells in DMEM and dilute with dye, about 1:5.
-2. Count cells in four corners of grid in hemacytometer. Take average. Number of cells in 1mL = number of cells counted * dilution factor * 10E4.
+2. Count cells in four corners of grid in hemacytometer. Take average. Number of cells in 1mL = number of cells counted x dilution factor x 1x10<sup>4</sup>.
 
 **Preparing for polymerase assay**
 
