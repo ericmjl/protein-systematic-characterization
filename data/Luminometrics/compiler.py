@@ -17,8 +17,13 @@ for f in files:
         df = pd.read_csv(f, index_col="SampleID")
         df["Luminescence"] = df["Luminescence"] + 1 - df["Luminescence"].min()
         # Negative control normalization to a Mock test
-        df["Normalized to Negative"] = (df["Luminescence"] /
-                                        df["Luminescence"]["Mock"].values[0])
+        # print(df["Luminescence"]["Mock"])
+        try:
+            df["Normalized to Negative"] = (df["Luminescence"] /
+                                            df["Luminescence"]["Mock"].values[0])
+        except:
+            df["Normalized to Negative"] = (df["Luminescence"] /
+                                            df["Luminescence"]["Mock"])
         # Positive control normalization, calculates the normalized polymerase
         # activity relative to pol activity in the Vic control
         try:
