@@ -14,7 +14,7 @@ master_df = pd.DataFrame(columns=["SampleID", "Well", "Replicate", "Well Type",
 for f in files:
     if f.endswith(".csv") and f != "master_datafile.csv":
         print(f)
-        df = pd.read_csv(f, index_col = "SampleID")
+        df = pd.read_csv(f, index_col="SampleID")
         df["Luminescence"] = df["Luminescence"] + 1 - df["Luminescence"].min()
         # Negative control normalization to a Mock test
         df["Normalized to Negative"] = (df["Luminescence"] /
