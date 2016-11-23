@@ -36,10 +36,9 @@ Reagents:
 | L17 | L18 | L19 | L20 | L22 | L23 | L24 | L26 | Mock | PHH | PCD | Mock |
 
 - First row samples were all transfected with Vic PB2 plasmids
--
 
 **2016-11-22 Luminescence Testing Notes:**
-- Accidentally left luciferase supernatant samples in 25C for 15 hours, but signal was still picked up during luminescence scanning. Only the first two rows of samples were tested.
+- Accidentally left luciferase supernatant samples in 25C for 15 hours, but signal was still picked up during luminescence scanning. Only the first two rows of samples were tested due to insufficient reagent.
 
 ### Tips for improvement from Kim
 - Grow cells in 100ul DMEM, so that they settle more quickly and will be less likely to clump in media
