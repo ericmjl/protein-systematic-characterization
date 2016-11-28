@@ -3,6 +3,10 @@
 Created on Wed Nov 23 16:40:14 2016
 
 @author: Vivian Zhong
+
+Run after compiler.py. Checks to make sure that 
+    1) masterfile.csv contains all and only all the collective data from the raw data files (throws an error)
+    2) no raw files have been modified (prints a warning)
 """
 import pandas as pd
 import os
@@ -35,7 +39,7 @@ for file in files:
         total_rows += len(df.index)
         #check hash
         if md5(file) != hash_log[file]:
-            cont = input("Raw data file" + file + "has been modified since last compilation.")
+            print("Raw data file" + file + "has been modified since last compilation.")
     if file == "master_datafile.csv":
         df = pd.read_csv(file)
         masterfile_rows = len(df.index)
