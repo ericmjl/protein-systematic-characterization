@@ -40,6 +40,9 @@ def error_rows_different(master, total):
         return "Master data file has more rows than the raw data files."
     return "Master data file has less rows than the raw data files."
         
+def error_sampleid_not_documented(name):
+    return "SampleID {0} is not recorded in documentation.".format(name)
+    
 def test_hash():
     for f in files:    
         assert md5(f) == hash_log[f], error_file_changed(f)
@@ -55,6 +58,12 @@ def test_total_rows_same():
             df = pd.read_csv(f)
             total_rows += len(df.index)
     assert masterfile_rows == total_rows, error_rows_different(masterfile_rows, total_rows)
-
+    
+def test_documentation():
+    doc = pd.read_excel("sample_name.xlsx")
+    df = pd.read_csv("master_datafile.csv")
+    for name in df["SampleID"]:
+        if name not in doc["SampleID"]:
+            error_sampleid_not_documented(name)
 
 
