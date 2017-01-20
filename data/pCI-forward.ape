@@ -1,4 +1,4 @@
-LOCUS       New_DNA                 4001 bp ds-DNA     linear       17-NOV-2016
+LOCUS       pCI_forward             4001 bp ds-DNA     linear       20-JAN-2017
 DEFINITION  .
 ACCESSION   
 VERSION     
@@ -6,6 +6,37 @@ SOURCE      .
   ORGANISM  .
 COMMENT     
 COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     rep_origin      2201..2883
+                     /label=ColE1 origin
+                     /ApEinfo_fwdcolor="gray50"
+                     /ApEinfo_revcolor="gray50"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     rep_origin      371..677
+                     /label=F1 ori
+                     /ApEinfo_fwdcolor="gray50"
+                     /ApEinfo_revcolor="gray50"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             285..353
+                     /label=LacZ alpha
+                     /ApEinfo_fwdcolor="#6495ed"
+                     /ApEinfo_revcolor="#6495ed"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             1444..2103
+                     /label=AmpR
+                     /ApEinfo_fwdcolor="yellow"
+                     /ApEinfo_revcolor="yellow"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     promoter        3152..3678
+                     /label=CMV promoter
+                     /ApEinfo_fwdcolor="cornflower blue"
+                     /ApEinfo_revcolor="cornflower blue"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
 ORIGIN
         1 ACGCGTGGTA CCTCTAGAGT CGACCCGGGC GGCCGCTTCG AGCAGACATG ATAAGATACA
        61 TTGATGAGTT TGGACAAACC ACAACTAGAA TGCAGTGAAA AAAATGCTTT ATTTGTGAAA
