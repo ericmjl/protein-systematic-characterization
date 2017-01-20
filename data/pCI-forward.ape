@@ -5,7 +5,6 @@ VERSION
 SOURCE      .
   ORGANISM  .
 COMMENT     
-COMMENT     
 COMMENT     ApEinfo:methylated:1
 FEATURES             Location/Qualifiers
      rep_origin      2201..2883
