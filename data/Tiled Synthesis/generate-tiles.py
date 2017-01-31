@@ -14,16 +14,19 @@ from Bio.Seq import Seq
 from Bio.SeqUtils import MeltingTemp as mt
 
 import numpy as np
-vic = [seq.seq for seq in SeqIO.parse("victoria-pb2.fasta", "fasta")][0]
 
+SEQ_LENGTH = 2280
+VARIABLE_TILE_LENGTH = 180
+OVERLAP = 30
+TEMPLATE = [seq.seq for seq in SeqIO.parse("victoria-pb2.fasta", "fasta")][0]
+
+       
 #Melting temperatures of forward and reverse primers
 start_overlap = "NNNNNAGCAAAAGCAGGTCAATTATATTCAGT" #27 bp, UTR before start codon
 end_overlap = "TGCTGAATAGTTTAAAAACGACCTTGTTTCTACNNNNN" #33 bp, UTR after stop codon
 
 print("5' primer: ", mt.Tm_GC(Seq(start_overlap), strict=False))
 print("3' primer: ", mt.Tm_GC(Seq(end_overlap), strict=False))
-
-
 # In[11]:
 
 def get_anneal_tm(get_seqs, tile_length, overlap, vic):
@@ -31,7 +34,7 @@ def get_anneal_tm(get_seqs, tile_length, overlap, vic):
     get_seqs: all the sequences in the fasta file, returned from the eponymous function
     tile_length (int): the length of variable DNA per fragment
     overlap (int): length of overlap between tile fragments
-    vic (str): PB2 sequence to use for overlap
+    TEMPLATE (str): PB2 sequence to use for overlap
     
     Returns: list of melting temperatures of annealing overlaps between tiles
     """
@@ -46,11 +49,8 @@ def get_anneal_tm(get_seqs, tile_length, overlap, vic):
             anneal = vic[i-overlap:i]
         tm.append(mt.Tm_GC(anneal))
     return tm
-tm = get_anneal_tm(get_seqs("AllUniqueDNA.fasta"), 180, 30, vic)
+tm = get_anneal_tm(get_seqs("AllUniqueDNA.fasta"), VARIABLE_TILE_LENGTH, OVERLAP, TEMPLATE)
 print("Range:", max(tm) - min(tm), "Mean:", sum(tm)/len(tm))
-sorted(tm)
-
-
 # In[12]:
 
 def get_seqs(variants_file):
@@ -69,14 +69,14 @@ def get_seqs(variants_file):
                     break
         else:
             start = 0
-        seq.seq = seq.seq[start:start+2280]
+        seq.seq = seq.seq[start:start+SEQ_LENGTH]
         all_seq.append(seq)   
     return all_seq
 def generate_tiles(get_seqs, tile_length, overlap, vic, max_tm):
     """
     tile_length (int): the length of variable DNA per fragment
     overlap (int): length of overlap between tile fragments
-    vic (str): PB2 sequence to use for overlap
+    TEMPLATE (str): PB2 sequence to use for overlap
     
     Returns: dictionary where keys are the id of the original PB2 sequence 
                 and values are tuples of lists of the tiles generated from those sequences, 
@@ -93,7 +93,6 @@ def generate_tiles(get_seqs, tile_length, overlap, vic, max_tm):
                 if i not in best_anneal.keys(): 
                     anneal = vic[i+tile_length:i+tile_length+overlap]
                     while mt.Tm_GC(anneal) < max_tm-4:
-                        
                         new_overlap += 1
                         anneal = vic[i+tile_length:i+tile_length+new_overlap]
                     best_anneal[i] = anneal
@@ -124,10 +123,8 @@ def generate_tiles(get_seqs, tile_length, overlap, vic, max_tm):
             rev_tiles.append(str(new_tile.reverse_complement()))
         tiles[seq.id] = (seq_tiles, rev_tiles)
     return tiles
-tiles = generate_tiles(get_seqs("AllUniqueDNA.fasta"), 180, 30, vic, max(get_anneal_tm(get_seqs("AllUniqueDNA.fasta"), 180, 30, vic)))
-tiles
-
-
+    
+tiles = generate_tiles(get_seqs("AllUniqueDNA.fasta"), VARIABLE_TILE_LENGTH, OVERLAP, TEMPLATE, max(get_anneal_tm(get_seqs("AllUniqueDNA.fasta"), VARIABLE_TILE_LENGTH, OVERLAP, TEMPLATE)))
 # In[13]:
 
 #find the number of unique end fragments
@@ -142,8 +139,6 @@ for seqs in tiles.values():
     last_tiles.append(str(seqs[0][-1]))
 unique = np.unique(last_tiles)
 print("Unique 3' end fragments: ", len(unique))
-
-
 # In[14]:
 
 #Range and mean of melting temperatures of tiles
@@ -154,17 +149,3 @@ for seq_tup in tiles.values():
             tm.append(mt.Tm_GC(Seq(seq), strict=False))
             
 print("Range:", max(tm) - min(tm), "Mean:", sum(tm)/len(tm))
-    
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
