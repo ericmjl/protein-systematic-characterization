@@ -1,0 +1,76 @@
+LOCUS       8BM3740_PB2             2280 bp ds-DNA     linear       01-FEB-2017
+DEFINITION  Influenza A virus (A/northern shoveler/Interior
+            Alaska/8BM3470/2008(H9N2)) polymerase PB2 (PB2) gene, complete cds.
+ACCESSION   CY079653
+VERSION     CY079653.1
+KEYWORDS    .
+SOURCE      Influenza A virus (A/northern shoveler/Interior
+            Alaska/8BM3470/2008(H9N2))
+  ORGANISM  Influenza A virus (A/northern shoveler/Interior
+            Alaska/8BM3470/2008(H9N2)) Viruses; ssRNA viruses; ssRNA
+            negative-strand viruses; Orthomyxoviridae; Influenzavirus A.
+REFERENCE   1  (bases 1 to 2307)
+  AUTHORS   Spiro,D., Halpin,R., Boyne,A., Bera,J., Ghedin,E., Hostetler,J.,
+            Fedorova,N., Hine,E., Overton,L., Djuric,K., Sarmiento,M., Sitz,J.,
+            Katzel,D., Runstadler,J., Happ,G., Huettmann,F., Lindberg,M.,
+            Meixell,B., Petrula,M., Black,J., Gundlach,N., Hunt,J., Marx,A.,
+            Vick,L., Folger,A., Garding,L., Schubert,R., Bozza,M., Kelly,T.,
+            Lin,X., Wentworth,D.E., Bao,Y., Sanders,R., Dernovoy,D.,
+            Kiryutin,B., Lipman,D.J. and Tatusova,T.
+  TITLE     The NIAID Influenza Genome Sequencing Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2307)
+  CONSRTM   The NIAID Influenza Genome Sequencing Consortium
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUN-2013) on behalf of JCVI/University of Alaska
+            Fairbanks/NCBI, National Center for Biotechnology Information, NIH,
+            Bethesda, MD 20894, USA
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     CDS             1..2280
+                     /label=8BM3740 PB2 CDS
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+ORIGIN
+        1 atggaaagaa taaaagaact aagagaccta atgtcacagt cccgcacccg cgagatactc
+       61 actaagacca ccgtggacca tatggccata atcaaaaaat acacatcggg aaggcaagag
+      121 aagaaccccg cactcagaat gaagtggatg atggcaatga agtatccaat tacagcagac
+      181 aagaggataa tggaaatgat tcctgagagg aatgaacagg gacaaaccct ctggagcaaa
+      241 acaaatgatg ccggctcaga ccgagtgatg gtatcacctc tggctgtgac gtggtggaat
+      301 aggaatggac caacagcaga tacggttcac tatcctaagg tatataaaac ttatttcgaa
+      361 aaggtcgaaa ggttaaaaca tgggaccttt ggcccggtcc acttcagaaa ccaggttaag
+      421 ataagaagga gagttgacac aaaccctggt catgcagacc tcagtgccaa ggaggcacag
+      481 gatgtgatca tggaggttgt tttcccaaac gaagtaggag ctagaatact aacgtcggaa
+      541 tcgcagttga caataacaaa agaaaagaaa gaagagctcc aggattgtaa aattgccccc
+      601 ttgatggtag catacatgct agaaagagag ttggtccgca aaacgaggtt cctcccagtg
+      661 gctggtggaa caagcagtgt ctatattgag gtgctacacc taacccaggg aacatgctgg
+      721 gaacagatgt acactccagg aggcgaagtg agaaatgatg atgttgacca aagtttgatt
+      781 attgctgcta ggaacatagt gagaagagcg acggtatcaa cagacccatt agcatctctg
+      841 ttggaaatgt gccacagcac gcagattgga ggaataagga tggtagacat ccttaggcaa
+      901 aatccaacag aggaacaagc cgtggacata tgcaaagcag caatgggact gaggattagc
+      961 tcatctttca gtttcggcgg attcactttc aaaagaacaa gtggatcgtc agtcaagaag
+     1021 gaagaggaag tgctcacagg caaccttcaa acactgaaaa taagagtaca tgaagggtat
+     1081 gaagaattca caatggtcgg aagaagagcg acggctatcc tcagaaaggc gaccaggaga
+     1141 ttgatccaat taatagtaag tggaagaaat gagcagtcaa ttgctgaggc aataatcgta
+     1201 gccatggtat tttcacaaga ggattgtatg atcaaagcag tccgaggcga tctaaatttt
+     1261 gtcaataggg caaatcagcg actgaatcct atgcaccaac tcttgagaca tttccaaaag
+     1321 gatgcaaagg tgctttttca aaattgggga attgaaccta ttgacaatgt aatgggaatg
+     1381 ataggaatat tacctgacat gaccccaagc actgaaatat cactgagggg aataagagtc
+     1441 agcaaaatgg gagtagatga gtactcaagc acggagagag tggtggtgag cattgaccgg
+     1501 tttctgaggg ttagggatca acaggggaac gtactattgt ctcccgaaga agtcagcgag
+     1561 acacaaggaa cagagaagct gacaataact tattcgtcat caatgatgtg ggagatcaac
+     1621 ggtcctgagt cagtgctggt caatacttat cagtggatca ttaggaactg ggaaactgtg
+     1681 aaaattcaat ggtcacaaga tcccacaatg ttatacaata aggtggaatt cgaaccattt
+     1741 caatctcttg tccctaaggc ggccagaagt caatacagcg gatttgtgag aacattgttc
+     1801 caacaaatgc gagatgtgct tggaacattt gacactgttc aaataataaa acttctccct
+     1861 tttgctgctg ccccaccaga gcagagtagg atgcaattct cctcactgac tgtgaatgtg
+     1921 agaggatcag ggatgagaat actggtgaga ggcaattctc cagtgttcaa ctacaacaag
+     1981 gccaccaaga ggcttactgt acttggaaaa gatgcaggtg ccttaaccga agatcttgat
+     2041 gaaggcacag ctggagtgga gtctgctgtc ctaagaggat tcctcatttt gggcaaagaa
+     2101 gacaagagat atggcccagc attaagcatc aatgaattga gcaaccttgc aaaaggagag
+     2161 aaggctaacg tgctaattgg gcaaggagac gtagtactgg taatgaaacg gaaacgggac
+     2221 tctagcatac ttactgacag ccagacagcg accaaaagaa ttcggatggc catcaattag
+//

@@ -1,0 +1,73 @@
+LOCUS       WSN_PB2                 2280 bp ds-DNA     linear       01-FEB-2017
+DEFINITION  Influenza A virus (A/WSN/1933(H1N1)) segment 1, complete sequence.
+ACCESSION   CY034139
+VERSION     CY034139.1
+KEYWORDS    .
+SOURCE      Influenza A virus (A/WSN/1933(H1N1))
+  ORGANISM  Influenza A virus (A/WSN/1933(H1N1)) Viruses; ssRNA viruses; ssRNA
+            negative-strand viruses; Orthomyxoviridae; Influenzavirus A.
+REFERENCE   1  (bases 1 to 2290)
+  AUTHORS   Spiro,D., Halpin,R., Boyne,A., Bera,J., Ghedin,E., Hostetler,J.,
+            Fedorova,N., Hine,E., Overton,L., Djuric,K., Sarmiento,M., Sitz,J.,
+            Katzel,D., Manojkumar,R., Devis,R., Fulvini,A., Silverman,J.,
+            Le,J., Kilbourne,E.D., Pokorny,B., Bucher,D., Orff,E., Minieri,J.,
+            Onodera,S., Huang,L., Bao,Y., Sanders,R., Dernovoy,D., Kiryutin,B.,
+            Lipman,D.J. and Tatusova,T.
+  TITLE     The NIAID Influenza Genome Sequencing Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2290)
+  CONSRTM   The NIAID Influenza Genome Sequencing Consortium
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUL-2008) on behalf of JCVI/New York Medical
+            College/NCBI, National Center for Biotechnology Information, NIH,
+            Bethesda, MD 20894, USA
+COMMENT     
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     CDS             1..2280
+                     /label=A/WSN/1933 PB2 CDS
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+ORIGIN
+        1 atggaaagaa taaaagaact aaggaatcta atgtcgcagt ctcgcactcg cgagatactc
+       61 acaaaaacca ccgtggacca tatggccata atcaagaagt acacatcagg aagacaggag
+      121 aagaacccag cacttaggat gaaatggatg atggcaatga aatatccaat tacagcagac
+      181 aagaggataa cggaaatgat tcctgagaga aatgagcagg gacaaacttt atggagtaaa
+      241 atgaatgacg ccggatcaga ccgagtgatg gtatcacctc tggctgtgac atggtggaat
+      301 aggaatggac cagtgacaag tacagttcat tatccaaaaa tctacaaaac ttattttgaa
+      361 aaagtcgaaa ggttaaaaca tggaaccttt ggccctgtcc attttagaaa ccaagtcaaa
+      421 atacgtcgaa gagttgacat aaatcctggt catgcagatc tcagtgccaa agaggcacag
+      481 gatgtaatca tggaagttgt tttccctaac gaagtgggag ccaggatact aacatcggaa
+      541 tcgcaactaa cgacaaccaa agagaagaaa gaagaactcc agggttgcaa aatttctcct
+      601 ctgatggtgg catacatgtt ggagagagaa ctggtccgca aaacgagatt cctcccagtg
+      661 gctggtggaa caagcagtgt gtacattgaa gtgttgcatt tgacccaagg aacatgctgg
+      721 gaacagatgt acactccagg aggggaggcg aggaatgatg atgttgatca aagcttaatt
+      781 attgctgcta gaaacatagt aagaagagcc acagtatcag cagatccact agcatcttta
+      841 ttggagatgt gccacagcac gcagattggt ggagtaagga tggtaaacat ccttaggcag
+      901 aacccaacag aagagcaagc cgtggatatt tgcaaggctg caatgggact gagaattagc
+      961 tcatccttca gttttggtgg attcacattt aagagaacaa gcggatcatc agtcaagaga
+     1021 gaggaagagg tgcttacggg caatcttcag acattgaaga taagagtgca tgagggatat
+     1081 gaagagttca caatggttgg gagaagagca acagctatac tcagaaaagc aaccaggaga
+     1141 ttgattcagc tgatagtgag tgggagagac gaacagtcga ttgccgaagc aataattgtg
+     1201 gccatggtat tttcacaaga ggattgtatg ataaaagcag ttagaggtga cctgaatttc
+     1261 gtcaataggg cgaatcagcg attgaatccc atgcaccaac ttttgagaca ttttcagaag
+     1321 gatgcaaagg tgctctttca aaattgggga attgaatcca tcgacaatgt gatgggaatg
+     1381 atcgggatat tgcccgacat gactccaagc accgagatgt caatgagagg agtgagaatc
+     1441 agcaaaatgg gggtagatga gtattccagc gcggagaaga tagtggtgag cattgaccgt
+     1501 tttttgagag ttagggacca acgtgggaat gtactactgt ctcccgagga ggtcagtgaa
+     1561 acacagggaa cagagaaact gacaataact tactcatcgt caatgatgtg ggagattaat
+     1621 ggtcctgaat cagtgttggt caatacctat cagtggatca tcagaaactg ggaaactgtt
+     1681 aaaattcagt ggtcccagaa tcctacaatg ctgtacaata aaatggaatt tgagccattt
+     1741 cagtctttag ttccaaaggc cgttagaggc caatacagtg ggtttgtgag aactctgttc
+     1801 caacaaatga gggatgtgct tgggacattt gataccgctc agataataaa acttcttccc
+     1861 ttcgcagccg ctccaccaaa gcaaagtgga atgcagttct cctcattgac tataaatgtg
+     1921 aggggatcag gaatgagaat acttgtaagg ggcaattctc cagtattcaa ctacaacaag
+     1981 accactaaaa gactcacagt tctcggaaag gatgctggcc ctttaactga agacccagat
+     2041 gaaggcacag ctggagttga gtccgcagtt ctgagaggat tcctcattct gggcaaagaa
+     2101 gacaggagat atggaccagc attaagcata aatgaactga gcaaccttgc gaaaggagag
+     2161 aaggctaatg tgctaattgg gcaaggagac gtggtgttgg taatgaaacg gaaacggaac
+     2221 tctagcatac ttactgacag ccagacagcg accaaaagaa ttcggatggc catcaattag
+//
