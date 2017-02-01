@@ -91,3 +91,9 @@ ENV/
 # Rope project settings
 .ropeproject
 experiments/20161006-cpec/cpec-align.clustal
+
+data/sequences/vic_in_pCI.pdf
+
+data/sequences/wsn_in_pCI.pdf
+
+data/sequences/bm8_in_pCI.pdf
