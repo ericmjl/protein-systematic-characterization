@@ -33,3 +33,4 @@ def test_num_tiles():
             if len(tile_set) != num_tiles:
                 num_errors +=1 
     assert num_errors == 0, "{0} sets of tiles do not have the right number of tiles.".format(num_errors)
+
