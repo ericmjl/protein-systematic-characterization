@@ -32,3 +32,7 @@ Disaggregating cultures into individual cells and separate cells from medium.
 **Preparing for polymerase assay**
 
 Select healthiest looking plate and follow tripsonizing procedure up to re-plating (up to step 7). Then divide up cell mixture evenly between wells in a polymerase assay plate. Proceed as above.
+
+For 96-well plate:
+- Grow cells in 100ul DMEM, so that they settle more quickly and will be less likely to clump in media
+- Mix cells in DMEM before seeding, and mix thoroughly in Falcon tube and in trough
