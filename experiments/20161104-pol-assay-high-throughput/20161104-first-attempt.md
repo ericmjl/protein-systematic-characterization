@@ -78,3 +78,7 @@ To-do before next high-throughput attempt:
 2016-11-14 Attempted luminescence testing
 
 - Refroze supernatant after testing failed due to plate getting stuck in plate scanner. Next time, check to make sure plate is secure
+
+## Data Analysis
+
+- Results from dilution discarded due to poor cell seeding procedure

@@ -16,7 +16,7 @@ Transfect plasmids (viral) into eukaryotic cells for polymerase assay.
 9. Let stand 20 min.
 10. Vacuum out cell culture medium from assay wells.
 11. Carefully add (pipette) the transfection mixtures into wells. Label.
-12. Incubate 4 hours, then change medium to 1mL DMEM.
+12. Incubate 4 hours, then change medium to 1mL DMEM. (100ul for 96-well plate)
 13. After 48 hours, take out 100-200ul of solution out of each well, store in tubes, and freeze in American freezer.
 
 http://bitesizebio.com/10774/the-luciferase-reporter-assay-how-it-works/
