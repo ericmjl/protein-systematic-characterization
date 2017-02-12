@@ -16,14 +16,14 @@ from Bio.SeqUtils import MeltingTemp as mt
 import numpy as np
 
 SEQ_LENGTH = 2280
-VARIABLE_TILE_LENGTH = 180
+TILE_LENGTH = 180 #between overlaps
 OVERLAP = 30
 TEMPLATE = [seq.seq for seq in SeqIO.parse("victoria-pb2.fasta", "fasta")][0]
 
        
 #Melting temperatures of forward and reverse primers
-start_overlap = "NNNNNAGCAAAAGCAGGTCAATTATATTCAGT" #27 bp, UTR before start codon
-end_overlap = "TGCTGAATAGTTTAAAAACGACCTTGTTTCTACNNNNN" #33 bp, UTR after stop codon
+start_overlap = "GATTACAGATTACAGNNNNNAGCAAAAGCAGGTCAATTATATTCAGT" #27 bp, UTR before start codon
+end_overlap = "TGCTGAATAGTTTAAAAACGACCTTGTTTCTACNNNNNGATTACAGATTACAG" #33 bp, UTR after stop codon
 
 print("5' primer: ", mt.Tm_GC(Seq(start_overlap), strict=False))
 print("3' primer: ", mt.Tm_GC(Seq(end_overlap), strict=False))
@@ -69,7 +69,7 @@ def get_anneal_tm(get_seqs, tile_length, overlap, vic):
             anneal = vic[i-overlap:i]
         tm.append(mt.Tm_GC(anneal))
     return tm
-tm = get_anneal_tm(get_seqs("AllUniqueDNA.fasta"), VARIABLE_TILE_LENGTH, OVERLAP, TEMPLATE)
+tm = get_anneal_tm(get_seqs("AllUniqueDNA.fasta"), TILE_LENGTH, OVERLAP, TEMPLATE)
 print("Range:", max(tm) - min(tm), "Mean:", sum(tm)/len(tm), "Max:", max(tm))
 
 def generate_tiles(get_seqs, tile_length, overlap, vic, max_tm):
@@ -77,6 +77,14 @@ def generate_tiles(get_seqs, tile_length, overlap, vic, max_tm):
     tile_length (int): the length of variable DNA per fragment
     overlap (int): length of overlap between tile fragments
     TEMPLATE (str): PB2 sequence to use for overlap
+    
+    Tm Optimization: From get_anneal_tm, get the highest Tm (max_tm) of all the annealing
+                overlaps in the sequence (approximate with Vic sequence). When 
+                generating tiles for the first sequence, bases are added to 
+                overlap sequences until the Tm of the overlap is within 4ºC
+                of the max_tm and saves the length of that overlap to a dictionary
+                by tile number. All subsequent sequences pull from that dictionary. 
+                
     
     Returns: dictionary where keys are the id of the original PB2 sequence 
                 and values are tuples of lists of the tiles generated from those sequences, 
@@ -95,36 +103,39 @@ def generate_tiles(get_seqs, tile_length, overlap, vic, max_tm):
                     while mt.Tm_GC(anneal) < max_tm-4:
                         new_overlap += 1
                         anneal = seq.seq[i+tile_length:i+tile_length+new_overlap]
-                    best_anneal[i] = anneal
+                    anneal_length = len(anneal)
+                    best_anneal[i] = anneal_length
                 else:
-                    anneal = best_anneal[i]
-                new_tile = Seq(start_overlap) + seq.seq[i:i+tile_length] + anneal
+                    anneal_length = best_anneal[i]
+                new_tile = Seq(start_overlap) + seq.seq[i:i+tile_length] + seq.seq[i+tile_length:i+tile_length+anneal_length]
             elif i == len(seq.seq)-tile_length:
                 if i not in best_anneal.keys(): 
                     anneal = seq.seq[i-overlap:i]
                     while mt.Tm_GC(anneal) < max_tm:
                         new_overlap += 1
-                        anneal = seq.seq[i-new_overlap:i]         
-                    best_anneal[i] = anneal
+                        anneal = seq.seq[i-new_overlap:i]       
+                    anneal_length=len(anneal)
+                    best_anneal[i] = anneal_length
                 else:
-                    anneal = best_anneal[i]
-                new_tile = anneal + seq.seq[i:i+tile_length] + Seq(end_overlap)
+                    anneal_length = best_anneal[i]
+                new_tile = seq.seq[i-anneal_length:i] + seq.seq[i:i+tile_length] + Seq(end_overlap)
             else:
                 if i not in best_anneal.keys(): 
                     anneal = seq.seq[i+tile_length:i+tile_length+overlap]
                     while mt.Tm_GC(anneal) < max_tm:
                         new_overlap += 1
-                        anneal = seq.seq[i+tile_length:i+tile_length+new_overlap]                       
-                    best_anneal[i] = anneal
+                        anneal = seq.seq[i+tile_length:i+tile_length+new_overlap]    
+                    anneal_length = len(anneal)                   
+                    best_anneal[i] = anneal_length
                 else:
-                    anneal = best_anneal[i]
-                new_tile = best_anneal[i-(tile_length+overlap)] + seq.seq[i:i+tile_length] + seq.seq[i+tile_length:i+tile_length+overlap]
+                    anneal_length = best_anneal[i]
+                new_tile = seq.seq[i-best_anneal[i-tile_length-overlap]:i] + seq.seq[i:i+tile_length] + seq.seq[i+tile_length:i+tile_length+anneal_length]
             seq_tiles.append(str(new_tile))
             rev_tiles.append(str(new_tile.reverse_complement()))
         tiles[seq.id] = (seq_tiles, rev_tiles)
     return tiles
     
-tiles = generate_tiles(get_seqs("AllUniqueDNA.fasta"), VARIABLE_TILE_LENGTH, OVERLAP, TEMPLATE, max(get_anneal_tm(get_seqs("AllUniqueDNA.fasta"), VARIABLE_TILE_LENGTH, OVERLAP, TEMPLATE)))
+tiles = generate_tiles(get_seqs("AllUniqueDNA.fasta"), TILE_LENGTH, OVERLAP, TEMPLATE, max(get_anneal_tm(get_seqs("AllUniqueDNA.fasta"), TILE_LENGTH, OVERLAP, TEMPLATE)))
 # In[13]:
 
 #find the number of unique end fragments
