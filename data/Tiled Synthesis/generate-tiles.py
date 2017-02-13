@@ -111,7 +111,7 @@ def generate_tiles(get_seqs, tile_length, overlap, vic, max_tm):
             elif i == len(seq.seq)-tile_length:
                 if i not in best_anneal.keys(): 
                     anneal = seq.seq[i-overlap:i]
-                    while mt.Tm_GC(anneal) < max_tm:
+                    while mt.Tm_GC(anneal) < max_tm-4:
                         new_overlap += 1
                         anneal = seq.seq[i-new_overlap:i]       
                     anneal_length=len(anneal)
@@ -122,7 +122,7 @@ def generate_tiles(get_seqs, tile_length, overlap, vic, max_tm):
             else:
                 if i not in best_anneal.keys(): 
                     anneal = seq.seq[i+tile_length:i+tile_length+overlap]
-                    while mt.Tm_GC(anneal) < max_tm:
+                    while mt.Tm_GC(anneal) < max_tm-4:
                         new_overlap += 1
                         anneal = seq.seq[i+tile_length:i+tile_length+new_overlap]    
                     anneal_length = len(anneal)                   
@@ -136,7 +136,7 @@ def generate_tiles(get_seqs, tile_length, overlap, vic, max_tm):
     return tiles
     
 tiles = generate_tiles(get_seqs("AllUniqueDNA.fasta"), TILE_LENGTH, OVERLAP, TEMPLATE, max(get_anneal_tm(get_seqs("AllUniqueDNA.fasta"), TILE_LENGTH, OVERLAP, TEMPLATE)))
-# In[13]:
+print(tiles)
 
 #find the number of unique end fragments
 first_tiles = []
