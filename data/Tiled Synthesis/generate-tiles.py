@@ -133,10 +133,11 @@ def generate_tiles(get_seqs, tile_length, overlap, vic, max_tm):
             seq_tiles.append(str(new_tile))
             rev_tiles.append(str(new_tile.reverse_complement()))
         tiles[seq.id] = (seq_tiles, rev_tiles)
+        print(best_anneal)
     return tiles
     
 tiles = generate_tiles(get_seqs("AllUniqueDNA.fasta"), TILE_LENGTH, OVERLAP, TEMPLATE, max(get_anneal_tm(get_seqs("AllUniqueDNA.fasta"), TILE_LENGTH, OVERLAP, TEMPLATE)))
-print(tiles)
+
 
 #find the number of unique end fragments
 first_tiles = []
