@@ -5,7 +5,7 @@ Created on Mon Jan 30 18:34:14 2017
 
 @author: vivzhong
 
-To be run after generate_tile.py. 
+To be run after generate_tiles.py. 
 """
 from Bio import SeqIO
 import generate_tiles as gt
