@@ -18,13 +18,14 @@ from Bio.SeqUtils import MeltingTemp as mt
 import numpy as np
 
 SEQ_LENGTH = 2280
-TILE_LENGTH = 180 #between overlaps
+MAX_TILE_LENGTH = 150 #between overlaps
 OVERLAP = 30
 TEMPLATE = [seq.seq for seq in SeqIO.parse("victoria-pb2.fasta", "fasta")][0]
 
-num_tiles = np.ceil((SEQ_LENGTH-TILE_LENGTH)/(TILE_LENGTH+OVERLAP))
-tile_length = (SEQ_LENGTH-OVERLAP)/num_tiles-OVERLAP
-#print(num_tiles, tile_length)
+#calculate the number of tiles and length of non-overlap in each tile
+num_tiles = int(np.ceil(SEQ_LENGTH/(MAX_TILE_LENGTH+OVERLAP)))
+tile_length = int(np.ceil(SEQ_LENGTH-(num_tiles-1)*OVERLAP)/num_tiles)
+
 #Melting temperatures of forward and reverse primers
 start_overlap = "GATTACAGATTACAGNNNNNAGCAAAAGCAGGTCAATTATATTCAGT" #47 bp, UTR before start codon
 end_overlap = "TGCTGAATAGTTTAAAAACGACCTTGTTTCTACNNNNNGATTACAGATTACAG" #33 bp, UTR after stop codon
@@ -55,7 +56,7 @@ def get_seqs(variants_file):
 
 #%%
 
-def generate_tiles(get_seqs, tile_length, overlap, vic):
+def generate_tiles(get_seqs, tile_length, overlap, num_tiles):
     """
     tile_length (int): the length of variable DNA per fragment
     overlap (int): length of overlap between tile fragments
@@ -77,20 +78,20 @@ def generate_tiles(get_seqs, tile_length, overlap, vic):
     for seq in get_seqs:
         seq_tiles = []
         #rev_tiles = []
-        for i in range(0, len(seq.seq)-1, tile_length+overlap):
+        for i in range(0, num_tiles):
             if i == 0:
                 new_tile = Seq(start_overlap) + seq.seq[i:i+tile_length] + seq.seq[i+tile_length:i+tile_length+overlap]
-            elif i == len(seq.seq)-tile_length:
-                new_tile = seq.seq[i-overlap:i] + seq.seq[i:i+tile_length] + Seq(end_overlap)
-            else:
-                new_tile = seq.seq[i-overlap:i] + seq.seq[i:i+tile_length] + seq.seq[i+tile_length:i+tile_length+overlap]
+            elif i == num_tiles-1:
+                new_tile = seq.seq[i*(tile_length+overlap)-overlap:] + Seq(end_overlap)
+            else: 
+                new_tile = seq.seq[i*(tile_length+overlap)-overlap:i*(tile_length+overlap)] + seq.seq[i*(tile_length+overlap):i*(tile_length+overlap)+tile_length] + seq.seq[i*(tile_length+overlap)+tile_length:i*(tile_length+overlap)+tile_length+overlap]
             seq_tiles.append(str(new_tile))
             #rev_tiles.append(str(new_tile.reverse_complement()))
         tiles[seq.id] = seq_tiles
     return tiles
 
-tiles = generate_tiles(get_seqs("AllUniqueDNA.fasta"), TILE_LENGTH, OVERLAP, TEMPLATE)
-print(tiles['gb:KT838064|Organism:Influenza'])
+tiles = generate_tiles(get_seqs("AllUniqueDNA.fasta"), tile_length, OVERLAP, num_tiles)
+#print(tiles['gb:KT838064|Organism:Influenza'])
 
 #find the number of unique end fragments
 first_tiles = []
